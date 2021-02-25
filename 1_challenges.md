@@ -13,7 +13,7 @@ Key themes that emerged included:
 * Community and Interaction
 * Access, Diversity, and Inclusion
 * Documentation 
-* Leadership
+* Leadership Transition
 
 ## Maintenance
 
@@ -43,6 +43,6 @@ There is a need for contributors of more diverse backgrounds, identities, and sk
 
 Documentation is critical for OSSTAs to support users and continue to grow. As the tools become more elaborate and able to execute different tasks, the documentation of their functions is crucial. One participant said, “[A problem] no toolkit has solved well is developing a way in which documentation could be crowdsourced.” Another challenge arises in dealing with internationalization and supporting multiple languages in the documentation. Streamlining the contribution and documentation process is a goal that various participants voiced. Documentation is discussed further in Development and Maintenance: Documentation and Community: Training and Mentorship for Users and Contributors.
 
-## Leadership
+## Leadership Transition
 
-OSSTAs have various leadership models, but one common model adopted from open-source software outside of the arts is the “benevolent dictator.” This means that while the community may contribute and take on leadership roles, one or a few individuals have final say over all decisions. This model is considered to be both the reason for the initial success of many projects but also a barrier to further growth and scalability. As the decisions and responsibility continue to be centralized in a person or a small group while the community around the software grows, there is a point where the leaders and main contributors cannot keep up with the pace of requests. Leadership transition is discussed further in Development and Maintenance: Leadership Transition.
+OSSTAs have various leadership models, but one common model adopted from open-source software outside of the arts is the “benevolent dictator.” This means that while the community may contribute and take on leadership roles, one or a few individuals have final say over all decisions. This model is considered to be both the reason for the initial success of many projects but also a barrier to further growth and scalability. As the decisions and responsibility continue to be centralized in a person or a small group while the community around the software grows, there is a point where the leaders and main contributors cannot keep up with the pace of requests. Leadership transition is discussed further in *Development and Maintenance: Leadership Transition*.

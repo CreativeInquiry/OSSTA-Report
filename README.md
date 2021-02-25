@@ -1,9 +1,11 @@
-# OSSTA Report 
+# Open Source Software Toolkits for the Arts (OSSTA): a Convening 
 
-*Summary report of a convening on Open-Source Software Toolkits for the Arts (OSSTA), Minneapolis, June 2–3, 2018. Organized by Golan Levin (Frank-Ratchye STUDIO for Creative Inquiry, Carnegie Mellon University) and Lauren Lee McCarthy (UCLA Design Media Arts), with enabling support from The John S. and James L. Knight Foundation.*
+*Report of a convening on Open-Source Software Toolkits for the Arts (OSSTA), Minneapolis, June 2–3, 2018. Organized by Golan Levin (Frank-Ratchye STUDIO for Creative Inquiry, Carnegie Mellon University) and Lauren Lee McCarthy (UCLA Design Media Arts), with enabling support from The John S. and James L. Knight Foundation.*
 
-Please cite this document as follows: 
-* Lauren Lee McCarthy, Thomas Hughes, and Golan Levin. "Open Source Software Toolkits for the Arts (OSSTA): a Convening". Report published by the Frank-Ratchye STUDIO for Creative Inquiry, Carnegie Mellon University, February 2021. [https://github.com/CreativeInquiry/OSSTA-Report](https://github.com/CreativeInquiry/OSSTA-Report).
+**Abstract:** This report documents a convening on Open Source Software Toolkits for the Arts (OSSTA) held in 2018. This event was a one-day conversation populated by founders, maintainers, and contributors of open-source arts-engineering toolkits. The goal of this report is to generate new opportunities for understanding, recognizing, and supporting work in this field. 
+
+**Please cite this document as follows:** 
+> Lauren Lee McCarthy, Thomas Hughes, and Golan Levin. "Open Source Software Toolkits for the Arts (OSSTA): a Convening". Report published by the Frank-Ratchye STUDIO for Creative Inquiry, Carnegie Mellon University, February 2021. [https://github.com/CreativeInquiry/OSSTA-Report](https://github.com/CreativeInquiry/OSSTA-Report).
 
 
 # Front Matter
@@ -19,13 +21,13 @@ Please cite this document as follows:
 * vi. [Sponsors](#vi-sponsors)
 
 1. [Challenges](1_challenges.md)
-   * Maintenance
-   * Funding
-   * Communication
-   * Community and Interaction
-   * Access, Diversity, and Inclusion
-   * Documentation
-   * Leadership Transition
+   * [Maintenance](1_challenges.md#maintenance)
+   * [Funding](1_challenges.md#funding)
+   * [Communication](1_challenges.md#communication)
+   * [Community and Interaction](1_challenges.md#community-and-interaction)
+   * [Access, Diversity, and Inclusion](1_challenges.md#access-diversity-and-inclusion)
+   * [Documentation](1_challenges.md#documentation)
+   * [Leadership Transition](1_challenges.md#leadership-transition)
 2. Development and Maintenance
    * Version Support
    * Preservation
@@ -70,7 +72,7 @@ At the same time, we recognize that there are many more toolkits, contributors, 
 
 We offer our deepest gratitude to the participants of the convening, and the many, many other contributors to these toolkits, without whom, the field of art and technology would not exist. We would also like to thank Tom Hughes and the support staff from the [Frank-Ratchye STUDIO for Creative Inquiry](https://studioforcreativeinquiry.org/) at Carnegie Mellon University for making this event possible, and Taeyoon Choi who assisted in facilitation. Finally, we would like to thank the sponsors of this event, including The Knight Foundation; The National Endowment for the Arts; The Frank-Ratchye STUDIO for Creative Inquiry at Carnegie Mellon University; UCLA Department of Design | Media Arts; NYU Tandon School of Engineering, Integrated Digital Media; NYU Tisch School of the Arts, Interactive Telecommunications Program; Processing Foundation; University of Denver Emergent Digital Practices; Princeton University StudioLab; Google Creative Lab; and Eyeo Festival.
 
-— *Golan Levin and Lauren Lee McCarthy*
+— *Golan Levin and Lauren Lee McCarthy (Organizers)*
 
 ## II. Summary
 
