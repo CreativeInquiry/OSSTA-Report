@@ -15,8 +15,8 @@
 Key themes that emerged in discussion included:
 
 * [Representation](#representation)
-* [Project Values](#project-values)
 * [Barriers](#barriers)
+* [Opportunities](#opportunities)
 * [Training and Mentorship for Users and Contributors](#training-and-mentorship-for-users-and-contributors)
 * [Visibility](#visibility)
 * [Promoting Interaction](#promoting-interaction)

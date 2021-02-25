@@ -38,12 +38,12 @@
    * [Leadership Transition](2_development_and_maintenance.md#leadership-transition)
    * [Documentation and Education](2_development_and_maintenance.md#documentation-and-education) 
 3. [**Community**](3_community.md)
-   * [Representation](3_community.md)
-   * [Barriers](3_community.md)
-   * [Opportunities](3_community.md)
-   * [Training and Mentorship for Users and Contributors](3_community.md)
-   * [Visibility](3_community.md)
-   * [Promoting Interaction](3_community.md)
+   * [Representation](3_community.md#representation)
+   * [Barriers](3_community.md#barriers)
+   * [Opportunities](3_community.md#opportunities)
+   * [Training and Mentorship for Users and Contributors](3_community.md#training-and-mentorship-for-users-and-contributors)
+   * [Visibility](3_community.md#visibility)
+   * [Promoting Interaction](3_community.md#promoting-interaction)
 4. **Funding and Sustainability**
    * Community Donations
    * Grants
