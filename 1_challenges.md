@@ -3,7 +3,7 @@
 
 [← Back to Contents](README.md)
 
-####  What are the biggest challenges in OSSTA?
+###  What are the biggest challenges in OSSTA?
 
 Key themes that emerged included:
 

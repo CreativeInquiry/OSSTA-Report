@@ -29,14 +29,14 @@
    * [Documentation](1_challenges.md#documentation)
    * [Leadership Transition](1_challenges.md#leadership-transition)
 2. Development and Maintenance
-   * Version Support
-   * Preservation
-   * Communication
-   * Automation
-   * Management
-   * Recognizing Individual Contributions
-   * Leadership Transition
-   * Documentation
+   * [Version Support](2_development_and_maintenance.md#version-support)
+   * [Preservation](2_development_and_maintenance.md#preservation)
+   * [Communication](2_development_and_maintenance.md#communication)
+   * [Automation](2_development_and_maintenance.md#automation)
+   * [Management](2_development_and_maintenance.md#management)
+   * [Recognizing Individual Contribution](2_development_and_maintenance.md#recognizing-individual-contribution)
+   * [Leadership Transition](2_development_and_maintenance.md#leadership-transition)
+   * [Documentation and Education](2_development_and_maintenance.md#documentation-and-education) 
 3. Community
    * Representation
    * Barriers
