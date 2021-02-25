@@ -7,6 +7,8 @@
 **Please cite this document as follows:** 
 > Lauren Lee McCarthy, Thomas Hughes, and Golan Levin. "Open Source Software Toolkits for the Arts (OSSTA): a Convening". Report published by The Frank-Ratchye STUDIO for Creative Inquiry, Carnegie Mellon University, February 2021. [https://github.com/CreativeInquiry/OSSTA-Report](https://github.com/CreativeInquiry/OSSTA-Report).
 
+**Contact:**<br />
+Please direct questions about this document to: [studio-info@andrew.cmu.edu](mailto:studio-info@andrew.cmu.edu).
 
 # Front Matter
 
