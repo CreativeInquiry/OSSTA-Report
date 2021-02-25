@@ -58,7 +58,7 @@
    * [Creativity](5_values.md#creativity)
 6. [**Futures**](6_futures.md)
 7. **Appendices**
-   * Appendix A: Participant Biographies
+   * [Appendix A: Participant Biographies](7a_appendix_biographies.md)
    * Appendix B: Supporting Organizations
    * Appendix C: Convening Information Packet
 
@@ -108,7 +108,7 @@ This convening was designed to gather a representative sample of the voices, per
 
 In this convening and report, we use the term “contributor” rather than “developer” to refer to people that work on OSSTAs, acknowledging the huge diversity of contributions including, but not limited to: documentation, teaching, graphic design, illustration, writing, organizing, curating, and software development.
 
-Biographies for convening participants can be found in [Appendix A](). Affiliations listed below were current as of June 2018. 
+Biographies for convening participants can be found in [Appendix A](7a_appendix_biographies.md). Affiliations listed below were current as of June 2018. 
 
 #### Organizers
  
