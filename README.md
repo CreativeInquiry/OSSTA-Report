@@ -7,8 +7,7 @@
 **Please cite this document as follows:** 
 > Lauren Lee McCarthy, Thomas Hughes, and Golan Levin. "Open Source Software Toolkits for the Arts (OSSTA): a Convening". Report published by The Frank-Ratchye STUDIO for Creative Inquiry, Carnegie Mellon University, February 2021. [https://github.com/CreativeInquiry/OSSTA-Report](https://github.com/CreativeInquiry/OSSTA-Report).
 
-**Contact:**<br />
-Please direct questions about this document to: [studio-info@andrew.cmu.edu](mailto:studio-info@andrew.cmu.edu).
+**Contact:** Please direct questions about this document to: [studio-info@andrew.cmu.edu](mailto:studio-info@andrew.cmu.edu).
 
 # Front Matter
 
@@ -46,13 +45,13 @@ Please direct questions about this document to: [studio-info@andrew.cmu.edu](mai
    * [Training and Mentorship for Users and Contributors](3_community.md#training-and-mentorship-for-users-and-contributors)
    * [Visibility](3_community.md#visibility)
    * [Promoting Interaction](3_community.md#promoting-interaction)
-4. **Funding and Sustainability**
-   * Community Donations
-   * Grants
-   * Corporate Sponsorships and Partnerships
-   * Educational Institution Support
-   * Establishing a Business Model
-   * Infrastructure
+4. [**Funding and Sustainability**](4_funding_and_sustainability.md)
+   * [Community Donations](4_funding_and_sustainability.md#community-donations)
+   * [Grants](4_funding_and_sustainability.md#grants)
+   * [Corporate Sponsorships and Partnerships](4_funding_and_sustainability.md#corporate-sponsorships-and-partnerships)
+   * [Educational Institution Support](4_funding_and_sustainability.md#educational-institution-support)
+   * [Establishing a Business Model](4_funding_and_sustainability.md#establishing-a-business-model)
+   * [Infrastructure](4_funding_and_sustainability.md#infrastructure)
 5. **Values**
    * Education and Pedagogy (Creating Access to Art and Technology Fields)
    * Community
