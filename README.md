@@ -2,6 +2,9 @@
 
 *Summary report of a convening on Open-Source Software Toolkits for the Arts (OSSTA), Minneapolis, June 2–3, 2018. Organized by Golan Levin (Frank-Ratchye STUDIO for Creative Inquiry, Carnegie Mellon University) and Lauren Lee McCarthy (UCLA Design Media Arts), with enabling support from The John S. and James L. Knight Foundation.*
 
+Please cite this document as follows: 
+* Lauren Lee McCarthy, Thomas Hughes, and Golan Levin. "Open Source Software Toolkits for the Arts (OSSTA): a Convening". Report published by the Frank-Ratchye STUDIO for Creative Inquiry, Carnegie Mellon University, December 2020. [https://github.com/CreativeInquiry/OSSTA-Report](https://github.com/CreativeInquiry/OSSTA-Report)
+
 
 # Front Matter
 
@@ -71,7 +74,7 @@ We offer our deepest gratitude to the participants of the convening, and the man
 
 ## II. Summary
 
-On June 2nd and 3rd, 2018, Golan Levin and Lauren Lee McCarthy, professors of media arts, with support from The Knight Foundation, organized a convening on Open Source Software Toolkits for the Arts (OSSTA) in Minneapolis, Minnesota. This event was a one-day conversation and ‘unconference’, populated by founders, maintainers, and contributors of open-source arts-engineering tools such Processing, p5.js, openFrameworks, Cinder, three.js, and more. Grants officers from The Knight Foundation and the National Endowment for the Arts (NEA) also took part in the discussions, as well as a handful of volunteers and support staff. The convening took place on the weekend before the 2018 Eyeo Festival, an annual media arts conference in Minneapolis. 
+On June 2nd and 3rd, 2018, Golan Levin and Lauren Lee McCarthy, professors of media arts, with support from The John S. and James L. Knight Foundation, organized a convening on Open Source Software Toolkits for the Arts (OSSTA) in Minneapolis, Minnesota. This event was a one-day conversation and ‘unconference’, populated by founders, maintainers, and contributors of open-source arts-engineering tools such Processing, p5.js, openFrameworks, Cinder, three.js, and more. Grants officers from The Knight Foundation and the National Endowment for the Arts (NEA) also took part in the discussions, as well as a handful of volunteers and support staff. The convening took place on the weekend before the 2018 Eyeo Festival, an annual media arts conference in Minneapolis. 
 
 The purpose of the convening, and this report, was to generate a first step towards defining the field of OSSTA, including an articulation of their impact as well as the challenges they face, for a wider audience. To this end, our gathering brought together leaders in the open-source arts community to have an in-depth conversation around the challenges and opportunities facing these platforms—specifically, regarding sustainability, funding, growth, management, diversity, and community building. The labor and impact of these tools, some of which are entering their third decade of existence, has remained under-recognized and under-resourced, putting the ecosystem of artists working with these tools at risk.
 
@@ -93,9 +96,9 @@ Within the following sections, we have identified the key themes that emerged fr
 
 ## III. Participants
 
-Participants were selected for this convening based on a variety of factors including: historical relationships to the tools; unique, under-represented, and/or valuable perspectives and background experience; industry perspectives; pedagogic perspectives, and the constraints of the budget for transcontinental flights. This group was convened to develop and express deep conversations around OSSTA, but in no way was meant to be exclusive of the thousands of other contributors, creators, and toolkits that actively contribute to and maintain these vibrant communities. 
+Participants were selected for this convening based on a variety of factors including: historical relationships to the tools; unique, under-represented, and/or valuable perspectives and background experience; industry perspectives; pedagogic perspectives; and the constraints of the budget for transcontinental flights. This group was convened to develop and express deep and broad conversations around OSSTA, but in no way was meant to be exclusive of the thousands of other contributors, creators, and toolkits that actively contribute to and maintain these vibrant communities. 
 
-This convening was designed to gather a representative sample of the voices, perspectives, and toolkits that comprised the landscape of open-source software tools for the arts in mid-2018. It is important to recognize the limitations of the two organizers and their ability to know all of the diverse contributors and toolkits out there. The number of participants was limited to 30 based on the resources available and the limits of facilitating and thoroughly documenting multiple conversations taking place within a single day. In this way, the viewpoints expressed here are a snapshot, rather than a comprehensive survey. We see this as one conversation that may hopefully spark others to expand on the perspectives and toolkits represented.
+This convening was designed to gather a representative sample of the voices, perspectives, and toolkits that comprised the landscape of open-source software tools for the arts in mid-2018. It is important to recognize the limitations of the two organizers and their ability to know all of the diverse contributors and toolkits out there. The number of participants was limited to 30 based on the resources available and the limits of facilitating and thoroughly documenting multiple conversations taking place within a single day. In this way, the viewpoints expressed here are a *snapshot*, rather than a *comprehensive survey*. We see this as one conversation that may hopefully spark others to expand on the perspectives and toolkits represented.
 
 In this convening and report, we use the term “contributor” rather than “developer” to refer to people that work on OSSTAs, acknowledging the huge diversity of contributions including, but not limited to: documentation, teaching, graphic design, illustration, writing, organizing, curating, and software development.
 
@@ -163,5 +166,56 @@ The first set of beneficiaries for this gathering are the 30 media artists invit
 
 ## V. Production Credits
 
+The Frank-Ratchye STUDIO for Creative Inquiry<br />
+Carnegie Mellon University<br />
+College of Fine Arts, Room #111<br />
+5000 Forbes Avenue<br />
+Pittsburgh, PA 15213
+
+#### Event Organizers
+* Golan Levin — Professor of Art, CMU School of Art; Director, CMU Frank-Ratchye STUDIO for Creative Inquiry
+* Lauren Lee McCarthy — Associate Professor, UCLA Design Media Arts; p5.js Lead, The Processing Foundation
+
+#### Report Authors
+* Lauren Lee McCarthy — Associate Professor, UCLA Design Media Arts
+* Tom Hughes — Associate Director, the Frank-Ratchye STUDIO for Creative Inquiry
+* Golan Levin — Director, CMU Frank-Ratchye STUDIO for Creative Inquiry
+
+#### Content Facilitators
+* Taeyoon Choi
+* Dorothy Santos
+* Kate Hollenbach
+* Carlos Garcia
+* Sharon de la Cruz
+
+#### Lead Organizational Partners
+* Chris Barr — Director, Art and Technology, the Knight Foundation
+* Jax Deluca — Director, Media Arts, National Endowment for the Arts
+
+#### Program Management and Editorial Leads
+* Tom Hughes — Associate Director, the Frank-Ratchye STUDIO for Creative Inquiry
+* Shanae Phillips — STUDIO Program Assistant
+
+#### Document Contributors, Editorial Assistance, and Documentation
+* Santiago Martinez
+* Johanna St. John
+* Claire Hentschker
+* Tatyana Mustakos
+* Chloé Desaulles
+* Faith Kim
+* Peter Sheehan
+
+#### Event Management and Production Coordination
+* Tom Hughes
+* Linda Hager
+* Carol Hernandez
+* Jenn Joy Wilson
+* January Johnson 
+
+
 ## VI. Sponsors
+
+The OSSTA Convening was made possible by The John S. and James L. Knight Foundation, and was realized with additional support from: The National Endowment for the Arts • The Frank-Ratchye STUDIO for Creative Inquiry at Carnegie Mellon University • UCLA Department of Design | Media Arts • NYU Tandon School of Engineering, Integrated Digital Media • NYU Tisch School of the Arts, Interactive Telecommunications Program • University of Denver Emergent Digital Practices • Princeton University StudioLab • Google Creative Lab • Processing Foundation • Eyeo Festival.
+
+![OSSTA Convening sponsor logos](images/sponsor-logos.png)
 
