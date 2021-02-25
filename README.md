@@ -52,15 +52,17 @@
    * [Educational Institution Support](4_funding_and_sustainability.md#educational-institution-support)
    * [Establishing a Business Model](4_funding_and_sustainability.md#establishing-a-business-model)
    * [Infrastructure](4_funding_and_sustainability.md#infrastructure)
-5. **Values**
-   * Education and Pedagogy (Creating Access to Art and Technology Fields)
-   * Community
-   * Creativity
-6. **Futures**
+5. [**Values**](5_values.md)
+   * [Education and Pedagogy](5_values.md#education-and-pedagogy)
+   * [Community](5_values.md#community)
+   * [Creativity](5_values.md#creativity)
+6. [**Futures**](6_futures.md)
 7. **Appendices**
    * Appendix A: Participant Biographies
    * Appendix B: Supporting Organizations
    * Appendix C: Convening Information Packet
+
+
 
 
 ## i. Preface
@@ -92,8 +94,8 @@ The Convening was organized around a set of six central questions:
 2. [**Developer Operations**](2_development_and_maintenance.md) — How do we handle growth and management?
 3. [**Community**](3_community.md) — How can we cultivate diverse and inclusive contributor communities?
 4. [**Funding and Sustainability**](4_funding_and_sustainability.md) — How can we sustain this work?
-5. **Values** — How do we describe what we do, and its value?
-6. **Futures** — What are the futures we want to see?
+5. [**Values**](5_values.md) — How do we describe what we do, and its value?
+6. [**Futures**](6_futures.md) — What are the futures we want to see?
 
 Within the following sections, we have identified the key themes that emerged from each of the discussions as well as the challenges and opportunities presented by convening participants.
 
