@@ -8,12 +8,12 @@
 
 ## Table of Contents
 
-* i. [Preface](#preface)
-* ii. [Summary](#summary)
-* iii. [Participants](#participants)
-* iv. [Field Definition](#field-definition)
-* v. [Production Credits](#production-credits)
-* vi. [Sponsors](#sponsors)
+* i. [Preface](#i-preface)
+* ii. [Summary](#ii-summary)
+* iii. [Participants](#iii-participants)
+* iv. [Field Definition](#iv-field-definition)
+* v. [Production Credits](#v-production-credits)
+* vi. [Sponsors](#vi-sponsors)
 
 1. Challenges
    * Maintenance
