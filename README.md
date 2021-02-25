@@ -14,12 +14,12 @@
 
 ## Table of Contents
 
-* i. [Preface](#i-preface)
-* ii. [Summary](#ii-summary)
-* iii. [Participants](#iii-participants)
-* iv. [Field Definition](#iv-field-definition)
-* v. [Production Credits](#v-production-credits)
-* vi. [Sponsors](#vi-sponsors)
+* i. [**Preface**](#i-preface)
+* ii. [**Summary**](#ii-summary)
+* iii. [**Participants**](#iii-participants)
+* iv. [**Field Definition**](#iv-field-definition)
+* v. [**Credits**](#v-credits)
+* vi. [**Sponsors**](#vi-sponsors)
 
 1. [**Challenges**](1_challenges.md)
    * [Maintenance](1_challenges.md#maintenance)
@@ -75,6 +75,7 @@ We offer our deepest gratitude to the participants of the convening, and the man
 
 — *Golan Levin and Lauren Lee McCarthy (Organizers)*
 
+
 ## ii. Summary
 
 On June 2nd and 3rd, 2018, Golan Levin and Lauren Lee McCarthy, professors of media arts, with support from The John S. and James L. Knight Foundation, organized a convening on Open Source Software Toolkits for the Arts (OSSTA) in Minneapolis, Minnesota. This event was a one-day conversation and ‘unconference’, populated by founders, maintainers, and contributors of open-source arts-engineering tools such Processing, p5.js, openFrameworks, Cinder, three.js, and more. Grants officers from The Knight Foundation and the National Endowment for the Arts (NEA) also took part in the discussions, as well as a handful of volunteers and support staff. The convening took place on the weekend before the 2018 Eyeo Festival, an annual media arts conference in Minneapolis. 
@@ -89,8 +90,8 @@ The Convening was organized around a set of six central questions:
 
 1. [**Challenges**](1_challenges.md) — What are the biggest challenges in OSSTA?
 2. [**Developer Operations**](2_development_and_maintenance.md) — How do we handle growth and management?
-3. **Community** — How can we cultivate diverse and inclusive contributor communities?
-4. **Funding and Sustainability** — How can we sustain this work?
+3. [**Community**](3_community.md) — How can we cultivate diverse and inclusive contributor communities?
+4. [**Funding and Sustainability**](4_funding_and_sustainability.md) — How can we sustain this work?
 5. **Values** — How do we describe what we do, and its value?
 6. **Futures** — What are the futures we want to see?
 
@@ -167,7 +168,8 @@ Despite their widespread use, however, the development of these important toolki
 
 The first set of beneficiaries for this gathering are the 30 media artists invited to represent their toolkits. These individuals are true hybrids: artists who do their own, highly competent software engineering. Presently, they develop and improve these toolkits, both for themselves and for others, with little or no financial support. Our project benefits these individuals by providing direct support for this activity. By gathering them together for face-to-face collaboration, it also serves to strengthen their communities. The second set of beneficiaries are the (literally) thousands of artists, designers, musicians, students, and researchers who depend on these specific tools to create interactive installations, performances, visualizations, and online experiences. For these communities, the expected benefit is a set of tools to create their work that is more robust, more fully-featured, better-documented, and created by and representative of a wider diversity of perspectives.
 
-## v. Production Credits
+
+## v. Credits
 
 The Frank-Ratchye STUDIO for Creative Inquiry<br />
 Carnegie Mellon University<br />
@@ -218,7 +220,7 @@ Pittsburgh, PA 15213
 
 ## vi. Sponsors
 
-The OSSTA Convening was made possible by The John S. and James L. Knight Foundation, and was realized with additional support from: The National Endowment for the Arts • The Frank-Ratchye STUDIO for Creative Inquiry at Carnegie Mellon University • UCLA Department of Design | Media Arts • NYU Tandon School of Engineering, Integrated Digital Media • NYU Tisch School of the Arts, Interactive Telecommunications Program • University of Denver Emergent Digital Practices • Princeton University StudioLab • Google Creative Lab • Processing Foundation • Eyeo Festival.
+The 2018 OSSTA Convening in Minneapolis was made possible by [The John S. and James L. Knight Foundation](https://knightfoundation.org/), and was realized with additional support from: [The National Endowment for the Arts](https://www.arts.gov/) • [The Frank-Ratchye STUDIO for Creative Inquiry at Carnegie Mellon University](https://studioforcreativeinquiry.org/) • [UCLA Department of Design Media Arts](http://dma.ucla.edu/) • [NYU Tandon School of Engineering, Integrated Digital Media](http://idm.engineering.nyu.edu/) • [NYU Tisch School of the Arts, Interactive Telecommunications Program](https://tisch.nyu.edu/itp) • [University of Denver Emergent Digital Practices](https://www.du.edu/ahss/edp/) • [Princeton University StudioLab](https://cst.princeton.edu/studiolab) • [Google Creative Lab](https://experiments.withgoogle.com/) • [Processing Foundation](https://processingfoundation.org/) • [Eyeo Festival](http://eyeofestival.com/).
 
 ![OSSTA Convening sponsor logos](images/sponsor-logos.png)
 
