@@ -1,6 +1,6 @@
 # OSSTA Report 
 
-*Summary report of a convening on Open-Source Software Toolkits for the Arts (OSSTA), Minneapolis, June 2–3, 2018. Organized by Golan Levin (Frank-Ratchye STUDIO for Creative Inquiry, Carnegie Mellon University) and Lauren Lee McCarthy (UCLA Design Media Arts).*
+*Summary report of a convening on Open-Source Software Toolkits for the Arts (OSSTA), Minneapolis, June 2–3, 2018. Organized by Golan Levin (Frank-Ratchye STUDIO for Creative Inquiry, Carnegie Mellon University) and Lauren Lee McCarthy (UCLA Design Media Arts), with enabling support from The John S. and James L. Knight Foundation.*
 
 
 # Front Matter
@@ -9,10 +9,11 @@
 ## Table of Contents
 
 * i. [Preface](#preface)
-* ii. Summary
-* iii. Participants
-* iv. Field Definition
-* v. Impressum
+* ii. [Summary](#summary)
+* iii. [Participants](#participants)
+* iv. [Field Definition](#field-definition)
+* v. [Production Credits](#production-credits)
+* vi. [Sponsors](#sponsors)
 
 1. Challenges
    * Maintenance
@@ -56,7 +57,7 @@
    * Appendix C: Convening Information Packet
 
 
-## Preface
+## I. Preface
 
 We are pleased to share this report documenting a convening on Open Source Software Toolkits for the Arts (OSSTA), organized by Golan Levin and Lauren Lee McCarthy in Minneapolis, Minnesota on June 2–3, 2018. This event was a one-day conversation and ‘unconference’, populated by founders, maintainers, and contributors of open-source arts-engineering tools such as [Processing](https://processing.org/), [p5.js](https://p5js.org/), [openFrameworks](https://openframeworks.cc/), [Cinder](https://libcinder.org/), [three.js](https://threejs.org/), and more. Grants officers from The Knight Foundation and the National Endowment for the Arts (NEA) also took part in the discussions, as well as a handful of volunteers and support staff. 
 
@@ -68,7 +69,7 @@ We offer our deepest gratitude to the participants of the convening, and the man
 
 — *Golan Levin and Lauren Lee McCarthy*
 
-## Summary
+## II. Summary
 
 On June 2nd and 3rd, 2018, Golan Levin and Lauren Lee McCarthy, professors of media arts, with support from The Knight Foundation, organized a convening on Open Source Software Toolkits for the Arts (OSSTA) in Minneapolis, Minnesota. This event was a one-day conversation and ‘unconference’, populated by founders, maintainers, and contributors of open-source arts-engineering tools such Processing, p5.js, openFrameworks, Cinder, three.js, and more. Grants officers from The Knight Foundation and the National Endowment for the Arts (NEA) also took part in the discussions, as well as a handful of volunteers and support staff. The convening took place on the weekend before the 2018 Eyeo Festival, an annual media arts conference in Minneapolis. 
 
@@ -90,7 +91,7 @@ The Convening was organized around a set of six central questions:
 Within the following sections, we have identified the key themes that emerged from each of the discussions as well as the challenges and opportunities presented by convening participants.
 
 
-## Participants
+## III. Participants
 
 Participants were selected for this convening based on a variety of factors including: historical relationships to the tools; unique, under-represented, and/or valuable perspectives and background experience; industry perspectives; pedagogic perspectives, and the constraints of the budget for transcontinental flights. This group was convened to develop and express deep conversations around OSSTA, but in no way was meant to be exclusive of the thousands of other contributors, creators, and toolkits that actively contribute to and maintain these vibrant communities. 
 
@@ -100,7 +101,7 @@ In this convening and report, we use the term “contributor” rather than “d
 
 Biographies for convening participants can be found in [Appendix A](). Affiliations listed below were current as of June 2018. 
 
-#### Organizers:
+#### Organizers
  
 * Golan Levin (Frank-Ratchye STUDIO for Creative Inquiry at CMU)
 * Lauren Lee McCarthy (UCLA Design Media Arts; Processing Foundation)
@@ -148,7 +149,7 @@ Biographies for convening participants can be found in [Appendix A](). Affiliati
 * Zach Lieberman (openFrameworks; School for Poetic Computation)
 
 
-## Field Definition
+## IV. Field Definition
 
 More than ever, today's media artists create their work using a suite of free programming toolkits made for artists, by artists. These open-source software tools for the arts, or *OSSTAs* — such as Processing, p5.js, and openFrameworks—are created by small, self-organized collectives of artists, designers, and educators in order to fulfill needs that are unmet (and probably unmeetable) by the marketplace. Generally, these toolkits take the form of software libraries: bundles of code, associated documentation, and work examples that are free and accessible. Because they are made by artists for artists, they reflect and respond to the specific needs and vision of artists and designers. This ground-up approach allows for a community to unlock creative potential by defining its own tools, rather than be subject to the whims of major corporations.
 
@@ -160,5 +161,7 @@ Despite their widespread use, however, the development of these important toolki
 
 The first set of beneficiaries for this gathering are the 30 media artists invited to represent their toolkits. These individuals are true hybrids: artists who do their own, highly competent software engineering. Presently, they develop and improve these toolkits, both for themselves and for others, with little or no financial support. Our project benefits these individuals by providing direct support for this activity. By gathering them together for face-to-face collaboration, it also serves to strengthen their communities. The second set of beneficiaries are the (literally) thousands of artists, designers, musicians, students, and researchers who depend on these specific tools to create interactive installations, performances, visualizations, and online experiences. For these communities, the expected benefit is a set of tools to create their work that is more robust, more fully-featured, better-documented, and created by and representative of a wider diversity of perspectives.
 
+## V. Production Credits
 
+## VI. Sponsors
 
