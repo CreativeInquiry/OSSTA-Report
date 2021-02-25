@@ -37,13 +37,13 @@
    * [Recognizing Individual Contribution](2_development_and_maintenance.md#recognizing-individual-contribution)
    * [Leadership Transition](2_development_and_maintenance.md#leadership-transition)
    * [Documentation and Education](2_development_and_maintenance.md#documentation-and-education) 
-3. **Community**
-   * Representation
-   * Barriers
-   * Opportunities
-   * Training and Mentorship for Users and Contributors
-   * Visibility
-   * Promoting Interaction
+3. [**Community**](3_community.md)
+   * [Representation](3_community.md)
+   * [Barriers](3_community.md)
+   * [Opportunities](3_community.md)
+   * [Training and Mentorship for Users and Contributors](3_community.md)
+   * [Visibility](3_community.md)
+   * [Promoting Interaction](3_community.md)
 4. **Funding and Sustainability**
    * Community Donations
    * Grants
