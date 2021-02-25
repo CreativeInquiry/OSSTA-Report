@@ -82,7 +82,7 @@ Processing and openFrameworks are defined as relatively mature tools that have g
 Leadership transition offers a way to lift the burden off project founders and also open more space for new and diverse voices. However, OSSTAs need to budget and plan the time, space, and resources necessary to develop opportunities for mentorship and transition. They must also address questions about how the new leader is chosen and what their responsibilities are.
 
 
-## Documentation
+## Documentation and Education
 
 Several of the participants articulated that documentation is essential to the growth of the tools. One of the participants said, “The main reason I open-sourced stuff I made is because it is about saying it is more valuable to people than if I keep it closed, it is more valuable if somebody can fork it, if they want to do something different with it, if they want to look to how I built something and take that and incorporate that somewhere else, that is valuable.” Documentation is central to the ethos of OSSTAs, making them accessible and encouraging learning and experimentation.
 

@@ -59,9 +59,8 @@
 6. [**Futures**](6_futures.md)
 7. **Appendices**
    * [Appendix A: Participant Biographies](7a_appendix_biographies.md)
-   * Appendix B: Supporting Organizations
-   * Appendix C: Convening Information Packet
-
+   * [Appendix B: Supporting Organizations](7b_appendix_supporters.md)
+   * [Appendix C: Convening Information Packet](7c_appendix_packet.md)
 
 
 

@@ -4,9 +4,9 @@
 
 ### How can we sustain this work?
 
-The subject of sustainability was discussed as a significant challenge for OSSTAs. Given that most OSSTA projects are largely supported by volunteers, energy and intention tend to dissipate over time as project leaders must carry the challenge of managing the project as well as supporting their own careers. Even if energy around the project grows, it results in the project scaling in complexity and community size, further increasing the burden on maintainers. Additionally, relying solely on volunteer labor excludes those without the financial and/or class privilege to donate their time and knowledge. One question that arises is, “How can the OSSTA community better foster spaces in which the tools are documented and maintained in a sustainable way?”
+*The subject of sustainability was discussed as a significant challenge for OSSTAs. Given that most OSSTA projects are largely supported by volunteers, energy and intention tend to dissipate over time as project leaders must carry the challenge of managing the project as well as supporting their own careers. Even if energy around the project grows, it results in the project scaling in complexity and community size, further increasing the burden on maintainers. Additionally, relying solely on volunteer labor excludes those without the financial and/or class privilege to donate their time and knowledge. One question that arises is, “How can the OSSTA community better foster spaces in which the tools are documented and maintained in a sustainable way?”*
 
-OSSTAs utilize a variety of sources for funding and support. Participants stressed that most OSSTAs are committed to offering their tools for free and do not have a business model or source of reliable income. They are often entirely dependent on donations, gifts, and grants.
+*OSSTAs utilize a variety of sources for funding and support. Participants stressed that most OSSTAs are committed to offering their tools for free and do not have a business model or source of reliable income. They are often entirely dependent on donations, gifts, and grants.*
 
 **Key funding sources and themes that emerged in discussion included:**
 
