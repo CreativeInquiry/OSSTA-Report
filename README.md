@@ -3,7 +3,7 @@
 *Summary report of a convening on Open-Source Software Toolkits for the Arts (OSSTA), Minneapolis, June 2–3, 2018. Organized by Golan Levin (Frank-Ratchye STUDIO for Creative Inquiry, Carnegie Mellon University) and Lauren Lee McCarthy (UCLA Design Media Arts), with enabling support from The John S. and James L. Knight Foundation.*
 
 Please cite this document as follows: 
-* Lauren Lee McCarthy, Thomas Hughes, and Golan Levin. "Open Source Software Toolkits for the Arts (OSSTA): a Convening". Report published by the Frank-Ratchye STUDIO for Creative Inquiry, Carnegie Mellon University, December 2020. [https://github.com/CreativeInquiry/OSSTA-Report](https://github.com/CreativeInquiry/OSSTA-Report)
+* Lauren Lee McCarthy, Thomas Hughes, and Golan Levin. "Open Source Software Toolkits for the Arts (OSSTA): a Convening". Report published by the Frank-Ratchye STUDIO for Creative Inquiry, Carnegie Mellon University, February 2021. [https://github.com/CreativeInquiry/OSSTA-Report](https://github.com/CreativeInquiry/OSSTA-Report).
 
 
 # Front Matter
@@ -18,7 +18,7 @@ Please cite this document as follows:
 * v. [Production Credits](#v-production-credits)
 * vi. [Sponsors](#vi-sponsors)
 
-1. Challenges
+1. [Challenges](1_challenges.md)
    * Maintenance
    * Funding
    * Communication
