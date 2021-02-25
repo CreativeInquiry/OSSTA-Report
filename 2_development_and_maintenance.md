@@ -5,7 +5,7 @@
 
 ###  How do we handle growth and management?
 
-Key themes that emerged in discussion included:
+**Key themes that emerged in discussion included:**
 
 * [Version Support](#version-support)
 * [Preservation](#preservation)

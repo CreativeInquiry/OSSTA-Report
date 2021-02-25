@@ -4,15 +4,16 @@
 
 ###  What are the biggest challenges in OSSTA?
 
-Key themes that emerged included:
+**Key themes that emerged included:**
 
-* Maintenance
-* Funding
-* Communication 
-* Community and Interaction
-* Access, Diversity, and Inclusion
-* Documentation 
-* Leadership Transition
+* [Maintenance](#maintenance)
+* [Funding](#funding)
+* [Communication](#communication)
+* [Community and Interaction](#community-and-interaction)
+* [Access, Diversity, and Inclusion](#access-diversity-and-inclusion)
+* [Documentation](#documentation)
+* [Leadership Transition](#leadership-transition)
+
 
 ## Maintenance
 

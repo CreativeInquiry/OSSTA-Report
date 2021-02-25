@@ -12,7 +12,7 @@
 > * *What are areas where we find challenges? What are areas where we can make space?*
 > * *Can we acknowledge that everyone is an expert of their own experience?*
 
-Key themes that emerged in discussion included:
+**Key themes that emerged in discussion included:**
 
 * [Representation](#representation)
 * [Barriers](#barriers)
