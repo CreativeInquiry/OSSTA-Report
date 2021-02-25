@@ -3,7 +3,7 @@
 
 [← Back to Contents](README.md)
 
-![](images/ossta_table_2.jpg)
+![OSSTA conversation table](images/ossta_table_2.jpg)
 
 ###  How do we handle growth and management?
 

@@ -3,6 +3,8 @@
 
 [← Back to Contents](README.md)
 
+![OSSTA group conversation](images/ossta_table_4.jpg)
+
 ### How can we cultivate diverse and inclusive contributor communities?
 
 *Carlos “L05” Garcia opened a conversation about community, drawing on his experiences working with artist collective Complex Movements and the Allied Media Conference. He emphasized that “learning is a multidimensional process” and the importance of unlearning the ways that we internalize patriarchy and white supremacy. Carlos asked:*

@@ -2,7 +2,7 @@
 
 [← Back to Contents](README.md)
 
-![](images/ossta_table_1.jpg)
+![OSSTA conversation table](images/ossta_table_1.jpg)
 
 ### How do we describe what we do, and its value?
 
