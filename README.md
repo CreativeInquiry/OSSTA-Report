@@ -89,7 +89,7 @@ Because Open Source Software Toolkits for the Arts are primarily developed onlin
 
 The organizers’ goal for this report is to generate new opportunities for understanding, recognizing, and supporting work in this field. 
 
-The Convening was organized around a set of six central questions:
+The Convening was organized around a set of six central questions, which are discussed in the six documents linked here:
 
 1. [**Challenges**](1_challenges.md) — What are the biggest challenges in OSSTA?
 2. [**Developer Operations**](2_development_and_maintenance.md) — How do we handle growth and management?
