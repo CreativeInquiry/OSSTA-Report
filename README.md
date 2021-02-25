@@ -20,7 +20,7 @@
 * v. [Production Credits](#v-production-credits)
 * vi. [Sponsors](#vi-sponsors)
 
-1. [Challenges](1_challenges.md)
+1. [**Challenges**](1_challenges.md)
    * [Maintenance](1_challenges.md#maintenance)
    * [Funding](1_challenges.md#funding)
    * [Communication](1_challenges.md#communication)
@@ -28,7 +28,7 @@
    * [Access, Diversity, and Inclusion](1_challenges.md#access-diversity-and-inclusion)
    * [Documentation](1_challenges.md#documentation)
    * [Leadership Transition](1_challenges.md#leadership-transition)
-2. Development and Maintenance
+2. [**Development and Maintenance**](2_development_and_maintenance.md)
    * [Version Support](2_development_and_maintenance.md#version-support)
    * [Preservation](2_development_and_maintenance.md#preservation)
    * [Communication](2_development_and_maintenance.md#communication)
@@ -37,26 +37,26 @@
    * [Recognizing Individual Contribution](2_development_and_maintenance.md#recognizing-individual-contribution)
    * [Leadership Transition](2_development_and_maintenance.md#leadership-transition)
    * [Documentation and Education](2_development_and_maintenance.md#documentation-and-education) 
-3. Community
+3. **Community**
    * Representation
    * Barriers
    * Opportunities
    * Training and Mentorship for Users and Contributors
    * Visibility
    * Promoting Interaction
-4. Funding and Sustainability
+4. **Funding and Sustainability**
    * Community Donations
    * Grants
    * Corporate Sponsorships and Partnerships
    * Educational Institution Support
    * Establishing a Business Model
    * Infrastructure
-5. Values
+5. **Values**
    * Education and Pedagogy (Creating Access to Art and Technology Fields)
    * Community
    * Creativity
-6. Futures
-7. Appendices
+6. **Futures**
+7. **Appendices**
    * Appendix A: Participant Biographies
    * Appendix B: Supporting Organizations
    * Appendix C: Convening Information Packet
@@ -86,8 +86,8 @@ The organizers’ goal for this report is to generate new opportunities for unde
 
 The Convening was organized around a set of six central questions:
 
-1. **Challenges** — What are the biggest challenges in OSSTA?
-2. **Developer Operations** — How do we handle growth and management?
+1. [**Challenges**](1_challenges.md) — What are the biggest challenges in OSSTA?
+2. [**Developer Operations**](2_development_and_maintenance.md) — How do we handle growth and management?
 3. **Community** — How can we cultivate diverse and inclusive contributor communities?
 4. **Funding and Sustainability** — How can we sustain this work?
 5. **Values** — How do we describe what we do, and its value?
