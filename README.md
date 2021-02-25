@@ -5,7 +5,7 @@
 **Abstract:** This report documents a convening on Open Source Software Toolkits for the Arts (OSSTA) held in 2018. This event was a one-day conversation populated by founders, maintainers, and contributors of open-source arts-engineering toolkits. The goal of this report is to generate new opportunities for understanding, recognizing, and supporting work in this field. 
 
 **Please cite this document as follows:** 
-> Lauren Lee McCarthy, Thomas Hughes, and Golan Levin. "Open Source Software Toolkits for the Arts (OSSTA): a Convening". Report published by the Frank-Ratchye STUDIO for Creative Inquiry, Carnegie Mellon University, February 2021. [https://github.com/CreativeInquiry/OSSTA-Report](https://github.com/CreativeInquiry/OSSTA-Report).
+> Lauren Lee McCarthy, Thomas Hughes, and Golan Levin. "Open Source Software Toolkits for the Arts (OSSTA): a Convening". Report published by The Frank-Ratchye STUDIO for Creative Inquiry, Carnegie Mellon University, February 2021. [https://github.com/CreativeInquiry/OSSTA-Report](https://github.com/CreativeInquiry/OSSTA-Report).
 
 
 # Front Matter
@@ -62,7 +62,7 @@
    * Appendix C: Convening Information Packet
 
 
-## I. Preface
+## i. Preface
 
 We are pleased to share this report documenting a convening on Open Source Software Toolkits for the Arts (OSSTA), organized by Golan Levin and Lauren Lee McCarthy in Minneapolis, Minnesota on June 2–3, 2018. This event was a one-day conversation and ‘unconference’, populated by founders, maintainers, and contributors of open-source arts-engineering tools such as [Processing](https://processing.org/), [p5.js](https://p5js.org/), [openFrameworks](https://openframeworks.cc/), [Cinder](https://libcinder.org/), [three.js](https://threejs.org/), and more. Grants officers from The Knight Foundation and the National Endowment for the Arts (NEA) also took part in the discussions, as well as a handful of volunteers and support staff. 
 
@@ -74,7 +74,7 @@ We offer our deepest gratitude to the participants of the convening, and the man
 
 — *Golan Levin and Lauren Lee McCarthy (Organizers)*
 
-## II. Summary
+## ii. Summary
 
 On June 2nd and 3rd, 2018, Golan Levin and Lauren Lee McCarthy, professors of media arts, with support from The John S. and James L. Knight Foundation, organized a convening on Open Source Software Toolkits for the Arts (OSSTA) in Minneapolis, Minnesota. This event was a one-day conversation and ‘unconference’, populated by founders, maintainers, and contributors of open-source arts-engineering tools such Processing, p5.js, openFrameworks, Cinder, three.js, and more. Grants officers from The Knight Foundation and the National Endowment for the Arts (NEA) also took part in the discussions, as well as a handful of volunteers and support staff. The convening took place on the weekend before the 2018 Eyeo Festival, an annual media arts conference in Minneapolis. 
 
@@ -96,7 +96,7 @@ The Convening was organized around a set of six central questions:
 Within the following sections, we have identified the key themes that emerged from each of the discussions as well as the challenges and opportunities presented by convening participants.
 
 
-## III. Participants
+## iii. Participants
 
 Participants were selected for this convening based on a variety of factors including: historical relationships to the tools; unique, under-represented, and/or valuable perspectives and background experience; industry perspectives; pedagogic perspectives; and the constraints of the budget for transcontinental flights. This group was convened to develop and express deep and broad conversations around OSSTA, but in no way was meant to be exclusive of the thousands of other contributors, creators, and toolkits that actively contribute to and maintain these vibrant communities. 
 
@@ -154,7 +154,7 @@ Biographies for convening participants can be found in [Appendix A](). Affiliati
 * Zach Lieberman (openFrameworks; School for Poetic Computation)
 
 
-## IV. Field Definition
+## iv. Field Definition
 
 More than ever, today's media artists create their work using a suite of free programming toolkits made for artists, by artists. These open-source software tools for the arts, or *OSSTAs* — such as Processing, p5.js, and openFrameworks—are created by small, self-organized collectives of artists, designers, and educators in order to fulfill needs that are unmet (and probably unmeetable) by the marketplace. Generally, these toolkits take the form of software libraries: bundles of code, associated documentation, and work examples that are free and accessible. Because they are made by artists for artists, they reflect and respond to the specific needs and vision of artists and designers. This ground-up approach allows for a community to unlock creative potential by defining its own tools, rather than be subject to the whims of major corporations.
 
@@ -166,7 +166,7 @@ Despite their widespread use, however, the development of these important toolki
 
 The first set of beneficiaries for this gathering are the 30 media artists invited to represent their toolkits. These individuals are true hybrids: artists who do their own, highly competent software engineering. Presently, they develop and improve these toolkits, both for themselves and for others, with little or no financial support. Our project benefits these individuals by providing direct support for this activity. By gathering them together for face-to-face collaboration, it also serves to strengthen their communities. The second set of beneficiaries are the (literally) thousands of artists, designers, musicians, students, and researchers who depend on these specific tools to create interactive installations, performances, visualizations, and online experiences. For these communities, the expected benefit is a set of tools to create their work that is more robust, more fully-featured, better-documented, and created by and representative of a wider diversity of perspectives.
 
-## V. Production Credits
+## v. Production Credits
 
 The Frank-Ratchye STUDIO for Creative Inquiry<br />
 Carnegie Mellon University<br />
@@ -215,7 +215,7 @@ Pittsburgh, PA 15213
 * January Johnson 
 
 
-## VI. Sponsors
+## vi. Sponsors
 
 The OSSTA Convening was made possible by The John S. and James L. Knight Foundation, and was realized with additional support from: The National Endowment for the Arts • The Frank-Ratchye STUDIO for Creative Inquiry at Carnegie Mellon University • UCLA Department of Design | Media Arts • NYU Tandon School of Engineering, Integrated Digital Media • NYU Tisch School of the Arts, Interactive Telecommunications Program • University of Denver Emergent Digital Practices • Princeton University StudioLab • Google Creative Lab • Processing Foundation • Eyeo Festival.
 
