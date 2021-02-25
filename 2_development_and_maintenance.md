@@ -3,6 +3,8 @@
 
 [← Back to Contents](README.md)
 
+![](images/ossta_table_2.jpg)
+
 ###  How do we handle growth and management?
 
 **Key themes that emerged in discussion included:**

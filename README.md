@@ -9,6 +9,8 @@
 
 **Contact:** Please direct questions about this document to: [studio-info@andrew.cmu.edu](mailto:studio-info@andrew.cmu.edu).
 
+
+
 # Front Matter
 
 
@@ -100,6 +102,8 @@ Within the following sections, we have identified the key themes that emerged fr
 
 
 ## iii. Participants
+
+![OSSTA group photo](images/ossta_group_photo.jpg)
 
 Participants were selected for this convening based on a variety of factors including: historical relationships to the tools; unique, under-represented, and/or valuable perspectives and background experience; industry perspectives; pedagogic perspectives; and the constraints of the budget for transcontinental flights. This group was convened to develop and express deep and broad conversations around OSSTA, but in no way was meant to be exclusive of the thousands of other contributors, creators, and toolkits that actively contribute to and maintain these vibrant communities. 
 

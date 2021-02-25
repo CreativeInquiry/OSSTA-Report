@@ -2,6 +2,8 @@
 
 [← Back to Contents](README.md)
 
+![Futures discussion](images/ossta_futures.jpg)
+
 ### What are the futures we want to see?
 
 *The final full group conversation centered on the future of OSSTAs that participants would like to see. Sharon Lee De La Cruz opened the discussion with some questions and prompts:*

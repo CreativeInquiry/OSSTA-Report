@@ -2,6 +2,8 @@
 
 [← Back to Contents](README.md)
 
+![](images/ossta_table_1.jpg)
+
 ### How do we describe what we do, and its value?
 
 *The participants describe value from two points of view. First, the idea of value creation for different stakeholders. Second, the set of values embedded in the tools, which guide the development and growth of the tools and the communities around them. As one participant said: “The value that you create to the world really stems out of the values you use to run the project.” Different stakeholders—artists, teachers, students, contributors, and companies—value these tools in different ways. One challenge is articulating the intricate network of values to each stakeholder.*
