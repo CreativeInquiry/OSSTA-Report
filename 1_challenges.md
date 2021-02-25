@@ -2,6 +2,8 @@
 
 [← Back to Contents](README.md)
 
+![OSSTA conversation table](images/ossta_table_3.jpg)
+
 ###  What are the biggest challenges in OSSTA?
 
 **Key themes that emerged included:**
