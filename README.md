@@ -1,20 +1,24 @@
 # Open Source Software Toolkits for the Arts (OSSTA): a Convening 
 
-*Report of a convening on Open-Source Software Toolkits for the Arts (OSSTA), Minneapolis, June 2–3, 2018. Organized by Golan Levin (Frank-Ratchye STUDIO for Creative Inquiry, Carnegie Mellon University) and Lauren Lee McCarthy (UCLA Design Media Arts), with enabling support from The John S. and James L. Knight Foundation.*
+*Report on a convening on Open-Source Software Toolkits for the Arts (OSSTA), Minneapolis, June 2–3, 2018. Organized by Golan Levin ([Frank-Ratchye STUDIO for Creative Inquiry](https://studioforcreativeinquiry.org/), Carnegie Mellon University) and Lauren Lee McCarthy ([p5.js](https://p5js.org/) & [UCLA Design Media Arts](http://dma.ucla.edu/)), with enabling support from [The John S. and James L. Knight Foundation](https://knightfoundation.org/).*
 
 ![OSSTA Futures discussion](images/ossta_futures.jpg)
 
-**Abstract:** This report documents a convening on Open Source Software Toolkits for the Arts (OSSTA) held in 2018. This event was a one-day conversation populated by founders, maintainers, and contributors of open-source arts-engineering toolkits. Participants articulated the challenges facing the development, maintenance, funding, sustainability, and community management of open-source arts toolkits, as well as their values and goals for the future. The goal of this report is to generate new opportunities for understanding, recognizing, and supporting work in this field. 
+**Abstract:** This Report documents a convening on Open Source Software Toolkits for the Arts (OSSTA) held in June 2018. This event was a one-day conversation populated by founders, maintainers, and contributors of open-source arts-engineering toolkits. During this convening, participants discussed the challenges facing the development, maintenance, funding, sustainability, and community management of open-source arts toolkits, as well as their values and goals for the future. The goal of this Report is to help generate new opportunities for understanding, recognizing, and supporting work in this field. 
 
 **Please cite this document as follows:** 
 > Lauren Lee McCarthy, Thomas Hughes, and Golan Levin. "Open Source Software Toolkits for the Arts (OSSTA): a Convening". Report published by The Frank-Ratchye STUDIO for Creative Inquiry, Carnegie Mellon University, February 2021. [https://github.com/CreativeInquiry/OSSTA-Report](https://github.com/CreativeInquiry/OSSTA-Report).
 
-**Contact:** Please direct questions about this document to: [studio-info@andrew.cmu.edu](mailto:studio-info@andrew.cmu.edu).
+**Contact:** Questions about this document may be directed to: [studio-info@andrew.cmu.edu](mailto:studio-info@andrew.cmu.edu).
 
 
 
 # Front Matter
 
+This Report is available in two forms: 
+
+1. As a set of web pages in MarkDown format (available in this GitHub repository at [https://github.com/CreativeInquiry/OSSTA-Report](https://github.com/CreativeInquiry/OSSTA-Report)
+2. As a single downloadable PDF file (TBD).
 
 ## Table of Contents
 
@@ -80,7 +84,7 @@ At the same time, we recognize that there are many more toolkits, contributors, 
 
 We offer our deepest gratitude to the participants of the convening, and the many, many other contributors to these toolkits, without whom, the field of art and technology would not exist. We would also like to thank Tom Hughes and the support staff from the [Frank-Ratchye STUDIO for Creative Inquiry](https://studioforcreativeinquiry.org/) at Carnegie Mellon University for making this event possible, and Taeyoon Choi who assisted in facilitation. Finally, we would like to thank the sponsors of this event, including The Knight Foundation; The National Endowment for the Arts; The Frank-Ratchye STUDIO for Creative Inquiry at Carnegie Mellon University; UCLA Department of Design | Media Arts; NYU Tandon School of Engineering, Integrated Digital Media; NYU Tisch School of the Arts, Interactive Telecommunications Program; Processing Foundation; University of Denver Emergent Digital Practices; Princeton University StudioLab; Google Creative Lab; and Eyeo Festival.
 
-— *Golan Levin and Lauren Lee McCarthy (Organizers)*
+— *Golan Levin and Lauren Lee McCarthy (Co-Organizers)*
 
 
 ## ii. Summary
@@ -89,13 +93,13 @@ We offer our deepest gratitude to the participants of the convening, and the man
 
 On June 2nd and 3rd, 2018, Golan Levin and Lauren Lee McCarthy, professors of media arts, with support from The John S. and James L. Knight Foundation, organized a convening on Open Source Software Toolkits for the Arts (OSSTA) in Minneapolis, Minnesota. This event was a one-day conversation and ‘unconference’, populated by founders, maintainers, and contributors of open-source arts-engineering tools such Processing, p5.js, openFrameworks, Cinder, three.js, and more. Grants officers from The Knight Foundation and the National Endowment for the Arts (NEA) also took part in the discussions, as well as a handful of volunteers and support staff. The convening took place on the weekend before the 2018 Eyeo Festival, an annual media arts conference in Minneapolis. 
 
-The purpose of the convening, and this report, was to generate a first step towards defining the field of OSSTA, including an articulation of their impact as well as the challenges they face, for a wider audience. To this end, our gathering brought together leaders in the open-source arts community to have an in-depth conversation around the challenges and opportunities facing these platforms—specifically, regarding sustainability, funding, growth, management, diversity, and community building. The labor and impact of these tools, some of which are entering their third decade of existence, has remained under-recognized and under-resourced, putting the ecosystem of artists working with these tools at risk.
+The purpose of the convening, and this report, was to generate a first step towards defining the field of OSSTA initiatives, including an articulation of their impact as well as the challenges they face, for a wider audience. To this end, our gathering brought together leaders in the open-source arts community to have an in-depth conversation around the challenges and opportunities facing these platforms—specifically, regarding sustainability, funding, growth, management, diversity, and community building. The labor and impact of these tools, some of which are entering their third decade of existence, has remained under-recognized and under-resourced, putting the ecosystem of artists working with these tools at risk.
 
 Because Open Source Software Toolkits for the Arts are primarily developed online by contributors distributed around the world, it’s rare to get so many project leaders and contributors in one room together. One primary goal of the convening was to foster inter-project dialogue and knowledge sharing that could benefit individual projects as well as the field as a whole.
 
 The organizers’ goal for this report is to generate new opportunities for understanding, recognizing, and supporting work in this field. 
 
-The Convening was organized around a set of six central questions, which are discussed in the six documents linked here:
+The Convening was organized around a set of six central questions, which are discussed in the six web pages linked here:
 
 1. [**Challenges**](1_challenges.md) — What are the biggest challenges in OSSTA?
 2. [**Developer Operations**](2_development_and_maintenance.md) — How do we handle growth and management?
@@ -121,8 +125,8 @@ Biographies for convening participants can be found in [Appendix A](7a_appendix_
 
 #### Organizers
  
-* Golan Levin (Frank-Ratchye STUDIO for Creative Inquiry at CMU)
-* Lauren Lee McCarthy (UCLA Design Media Arts; Processing Foundation)
+* [Golan Levin](http://www.flong.com/) (Frank-Ratchye STUDIO for Creative Inquiry at CMU)
+* [Lauren Lee McCarthy](https://lauren-mccarthy.com/) (UCLA Design Media Arts; Processing Foundation)
 
 #### Sponsors: 
 
@@ -138,33 +142,33 @@ Biographies for convening participants can be found in [Appendix A](7a_appendix_
 
 #### Participants:
 
-* Aarón Montoya-Moraga (NYU ITP)
-* Adelle Lin (Code Liberation; Intel)
-* Andrés Colubri (Processing; Broad Institute)
-* Andrew Bell (Cinder)
-* Ari Melenciano (NYU ITP)
-* Arturo Castro (openFrameworks)
-* Carlos L05 Garcia (Complex Movements; UCLA)
-* Chris Baker (School of the Art Institute of Chicago)
-* Chris Coleman (University of Denver EDP)
-* Dan Shiffman (Processing Foundation; NYU ITP)
-* David Lublin (HAP Codec; Vidvox VDMX)
-* Dorothy Santos (Processing Foundation; REFRESH)
-* Irene Alvarado (Tensorflow.js; Google Creative Lab)
-* Kate Compton (Tracery)
-* Kate Hollenbach (p5.js; independent artist)
-* Kyle McDonald (Independent artist) 
-* R. Luke DuBois (NYU Integrated Digital Media)
-* Mathura Govindarajan (NYU ITP)
-* Omayeli Arenyeka (Recurse Center)
-* Rebecca Fiebrink (Wekinator; Goldsmiths College of London)
-* Ricardo Cabello (Three.js)
-* Sharon De La Cruz (Princeton StudioLab)
-* Sinan Ascioglu (OpenProcessing)
-* Taeyoon Choi (School for Poetic Computation; Processing Foundation)
-* Tega Brain (NYU Integrated Digital Media)
-* Theo Watson (openFrameworks; DesignIO)
-* Zach Lieberman (openFrameworks; School for Poetic Computation)
+* [Aarón Montoya-Moraga](https://montoyamoraga.io/) (NYU ITP)
+* [Adelle Lin](http://adelleninja.com/) (Code Liberation; Intel)
+* [Andrés Colubri](https://andrescolubri.net/) (Processing; Broad Institute)
+* [Andrew Bell](http://drawnline.net/) (Cinder)
+* [Ari Melenciano](https://www.ariciano.com/) (NYU ITP)
+* [Arturo Castro](https://arturocastro.net/) (openFrameworks)
+* [Carlos 'L05' Garcia](https://creative-capital.org/artists/complex-movements/carlos-garcia/) (Complex Movements; UCLA)
+* [Christopher Baker](https://www.saic.edu/profiles/faculty/christopher-baker) (School of the Art Institute of Chicago)
+* [Chris Coleman](http://digitalcoleman.com/) (University of Denver EDP)
+* [Dan Shiffman](https://shiffman.net/) (Processing Foundation; NYU ITP)
+* [David Lublin](http://www.davidlubl.in/) (HAP Codec; Vidvox VDMX)
+* [Dorothy Santos](https://dorothysantos.com/) (Processing Foundation; REFRESH)
+* [Irene Alvarado](https://www.irenealvarado.com/) (Tensorflow.js; Google Creative Lab)
+* [Kate Compton](http://www.galaxykate.com/) (Tracery)
+* [Kate Hollenbach](http://www.katehollenbach.com/) (p5.js; independent artist)
+* [Kyle McDonald](https://kylemcdonald.net/) (Independent artist) 
+* [R. Luke DuBois](https://engineering.nyu.edu/faculty/r-luke-dubois) (NYU Integrated Digital Media)
+* [Mathura Govindarajan](https://mathuramg.com/) (NYU ITP)
+* [Omayeli Arenyeka](https://www.omayeli.com/) (Recurse Center)
+* [Rebecca Fiebrink](https://www.doc.gold.ac.uk/~mas01rf/homepage/) (Wekinator; Goldsmiths College of London)
+* [Ricardo Cabello](https://ricardocabello.com/) (Three.js)
+* [Sharon De La Cruz](https://tisch.nyu.edu/about/directory/itp/1947935465) (Princeton StudioLab)
+* [Sinan Ascioglu](https://www.wiredpieces.com/) (OpenProcessing)
+* [Taeyoon Choi](http://taeyoonchoi.com/) (School for Poetic Computation; Processing Foundation)
+* [Tega Brain](http://www.tegabrain.com/) (NYU Integrated Digital Media)
+* [Theo Watson](https://theowatson.com/) (openFrameworks; DesignIO)
+* [Zach Lieberman](http://zach.li/) (openFrameworks; School for Poetic Computation)
 
 
 ## iv. Field Definition
