@@ -83,6 +83,8 @@ There are various strategies to promote positive interaction. Setting a clear to
 
 Another strategy is creating places for sharing and supporting work. It is empowering to see others’ work, to have conversations around it, and to see it being valued. For example, codenewbie.org is a website for people at early stages of coding, providing support and education to better engage in the task of learning how to code. The open-source nature of OSSTAs carries through to the sharing and creation of new work, with many users building on code that was written by others, then sharing back to the community.
 
+---
 
+[← Back to Contents](README.md)
 
 

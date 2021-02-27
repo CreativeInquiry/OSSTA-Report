@@ -56,3 +56,7 @@ Documentation is critical for OSSTAs to support users and continue to grow. As t
 ## Leadership Transition
 
 OSSTAs have various leadership models, but one common model adopted from open-source software outside of the arts is the “benevolent dictator.” This means that while the community may contribute and take on leadership roles, one or a few individuals have final say over all decisions. This model is considered to be both the reason for the initial success of many projects but also a barrier to further growth and scalability. As the decisions and responsibility continue to be centralized in a person or a small group while the community around the software grows, there is a point where the leaders and main contributors cannot keep up with the pace of requests. Leadership transition is discussed further in [*Development and Maintenance: Leadership Transition*](2_development_and_maintenance.md#documentation-and-education).
+
+---
+
+[← Back to Contents](README.md)

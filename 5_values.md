@@ -39,3 +39,7 @@ Open-source software is inherently about knowledge sharing. The tools communicat
 These tools provide the means for expression in a field that is at the forefront of technology. One of the participants said, “Artists need to have a seat at the table in defining technological futures. We need to be articulating what is ethical, what is interesting, what is beautiful, and what is important about technologies.” Another commented, “Artists are not just people that paint pictures and make sculptures, they are people who are actually showing everyone else how can they rearrange the world to make it closer to the vision that they imagine.” These tools enable creators to explore possibilities and be creative in a powerful way. As one participant put it, these tools “facilitate and give people the ability to say what they need to say through technology or media.”
 
 OSSTAs also generate culture outside of corporations’ commercial interests. Creators are able to find an audience and build community around creative expression through code. Compared to using commercial tools, creators feel they are better able to maintain ownership and preserve their own cultural artifacts, rather than relying on particular proprietary platforms and file formats to access them.
+
+---
+
+[← Back to Contents](README.md)

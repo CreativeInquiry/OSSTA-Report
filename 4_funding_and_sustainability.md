@@ -61,3 +61,6 @@ Participants made the point that to be sustainable, OSSTAs not only need revenue
 
 Collaboration between OSSTAs is one potentially beneficial strategy. Knowledge sharing and strategizing happens informally between projects, but it could be formalized. Projects could aggregate some of their needs and address them collectively. Infrastructure could be shared between projects, reducing individual costs and enhancing the general capacity of the OSSTAs. One example in the OSS world outside of the arts is the Apache Software Foundation, an umbrella non-profit organization that claims over 350 OSS projects.
 
+---
+
+[← Back to Contents](README.md)

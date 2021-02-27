@@ -93,3 +93,7 @@ While documentation is recognized as necessary, there are often gaps in coverage
 One prevalent idea is to approach documentation as a wiki that many  people can edit, sharing the work and allowing more people to contribute. Quality control and editorial control are issues with this method. Other projects place the documentation directly into the source code, and require documentation updates to be paired with code submissions to keep the code and documentation tightly linked. However, this raises the barrier for contributors by adding more work for a single pull request.
 
 There has been some success involving students in documentation creation, which contributes to available materials as well as serving to recruit and onboard new community members. This type of education is discussed in depth in the section *Community: Training and Mentorship for Users and Contributors*.
+
+---
+
+[← Back to Contents](README.md)

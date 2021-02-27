@@ -128,3 +128,7 @@ What are the unintended effects of our projects, good and bad?
 What might a replacement to GitHub look like that supports the kind of collaboration that we’d benefit from? What are the types of social structures we could use for healthy open-source projects?
 
 A conversation about ethics in open source.
+
+---
+
+[← Back to Contents](README.md)

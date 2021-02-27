@@ -124,3 +124,7 @@ This is a small community. We are gathering, privately, to discuss common challe
 
 #### Discussing this Event with Others 
 This Convening is a private meeting, organized in a compressed timeframe without a public call, with participation by invitation only. We have done our best, within the limits of time, logistics, available funds, and our own abilities, to gather an amazing group of participants whom we feel could productively contribute to our conversation and the forthcoming #OSSTA report. But we can all imagine how someone, somewhere, might become upset that they weren’t invited. We ask you to please be particularly conscientious in mentioning this event publicly, especially to persons who might feel (deservedly or not) that they really ought to have been invited. 
+
+---
+
+[← Back to Contents](README.md)
