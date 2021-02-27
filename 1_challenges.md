@@ -31,6 +31,8 @@ Funding is one of the largest challenges many OSSTAs encounter. Many of these to
 
 ## Communication
 
+![OSSTA conversation table](images/ossta_table_6.jpg)
+
 Communication is an area with many opportunities for improvement. Onboarding new members and making them feel welcome and respected is essential for the community. It is important to carefully consider the communication tools being used. There is also a need for an intentional and thoughtful approach to communication within these channels. One of the participants said, “How do you signal to people that they have a seat at the table, that the table is big and that there are seats available, and just how do we get that message out there?” Communication is discussed further in [*Development and Maintenance: Communication*](2_development_and_maintenance.md#communication).
 
 

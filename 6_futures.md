@@ -2,7 +2,7 @@
 
 [← Back to Contents](README.md)
 
-![OSSTA Futures discussion](images/ossta_futures.jpg)
+![OSSTA Futures discussion](images/ossta_table_5.jpg)
 
 ### What are the futures we want to see?
 

@@ -2,6 +2,8 @@
 
 *Report of a convening on Open-Source Software Toolkits for the Arts (OSSTA), Minneapolis, June 2–3, 2018. Organized by Golan Levin (Frank-Ratchye STUDIO for Creative Inquiry, Carnegie Mellon University) and Lauren Lee McCarthy (UCLA Design Media Arts), with enabling support from The John S. and James L. Knight Foundation.*
 
+![OSSTA Futures discussion](images/ossta_futures.jpg)
+
 **Abstract:** This report documents a convening on Open Source Software Toolkits for the Arts (OSSTA) held in 2018. This event was a one-day conversation populated by founders, maintainers, and contributors of open-source arts-engineering toolkits. Participants articulated the challenges facing the development, maintenance, funding, sustainability, and community management of open-source arts toolkits, as well as their values and goals for the future. The goal of this report is to generate new opportunities for understanding, recognizing, and supporting work in this field. 
 
 **Please cite this document as follows:** 
@@ -68,6 +70,8 @@
 
 ## i. Preface
 
+![OSSTA group conversation](images/ossta_table_7.jpg)
+
 We are pleased to share this report documenting a convening on Open Source Software Toolkits for the Arts (OSSTA), organized by Golan Levin and Lauren Lee McCarthy in Minneapolis, Minnesota on June 2–3, 2018. This event was a one-day conversation and ‘unconference’, populated by founders, maintainers, and contributors of open-source arts-engineering tools such as [Processing](https://processing.org/), [p5.js](https://p5js.org/), [openFrameworks](https://openframeworks.cc/), [Cinder](https://libcinder.org/), [three.js](https://threejs.org/), and more. Grants officers from The Knight Foundation and the National Endowment for the Arts (NEA) also took part in the discussions, as well as a handful of volunteers and support staff. 
 
 We hope that this report can function as an examination and a call to action, shining a light on the hard work and labor of contributing artists, designers, engineers, and community members. The organizers’ goal for this report is to generate new opportunities for understanding, recognizing, and supporting work in this field. 
@@ -80,6 +84,8 @@ We offer our deepest gratitude to the participants of the convening, and the man
 
 
 ## ii. Summary
+
+![OSSTA conversation table](images/ossta_table_8.jpg)
 
 On June 2nd and 3rd, 2018, Golan Levin and Lauren Lee McCarthy, professors of media arts, with support from The John S. and James L. Knight Foundation, organized a convening on Open Source Software Toolkits for the Arts (OSSTA) in Minneapolis, Minnesota. This event was a one-day conversation and ‘unconference’, populated by founders, maintainers, and contributors of open-source arts-engineering tools such Processing, p5.js, openFrameworks, Cinder, three.js, and more. Grants officers from The Knight Foundation and the National Endowment for the Arts (NEA) also took part in the discussions, as well as a handful of volunteers and support staff. The convening took place on the weekend before the 2018 Eyeo Festival, an annual media arts conference in Minneapolis. 
 
