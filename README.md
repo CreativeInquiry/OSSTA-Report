@@ -104,7 +104,7 @@ The Convening was organized around a set of six central questions, which are dis
 5. [**Values**](5_values.md) — How do we describe what we do, and its value?
 6. [**Futures**](6_futures.md) — What are the futures we want to see?
 
-Within the sections linked above, we have identified the key themes that emerged from each of the discussions as well as the challenges and opportunities presented by Convening participants.
+Within the pages linked above, we have identified the key themes that emerged from each of the discussions as well as the challenges and opportunities presented by Convening participants.
 
 
 ## iii. Participants
@@ -182,13 +182,16 @@ The first set of beneficiaries for this gathering are the 30 media artists invit
 
 ## v. Credits
 
-The Frank-Ratchye STUDIO for Creative Inquiry<br />
+The 2018 OSSTA Convening was a project of The Frank-Ratchye STUDIO for Creative Inquiry at Carnegie Mellon University. 
+
+> <a href="http://studioforcreativeinquiry.org">The Frank-Ratchye STUDIO for Creative Inquiry</a><br />
 Carnegie Mellon University<br />
 College of Fine Arts, Room #111<br />
 5000 Forbes Avenue<br />
-Pittsburgh, PA 15213
+Pittsburgh, PA 15213<br />
+[studio-info@andrew.cmu.edu](mailto:studio-info@andrew.cmu.edu)
 
-#### Event Organizers
+#### Event Co-Organizers
 * Golan Levin — Professor of Art, CMU School of Art; Director, CMU Frank-Ratchye STUDIO for Creative Inquiry
 * Lauren Lee McCarthy — Associate Professor, UCLA Design Media Arts; p5.js Lead, The Processing Foundation
 
@@ -231,7 +234,7 @@ Pittsburgh, PA 15213
 
 ## vi. Sponsors
 
-The 2018 OSSTA Convening in Minneapolis was made possible by [The John S. and James L. Knight Foundation](https://knightfoundation.org/), and was realized with additional support from: [The National Endowment for the Arts](https://www.arts.gov/) • [The Frank-Ratchye STUDIO for Creative Inquiry at Carnegie Mellon University](https://studioforcreativeinquiry.org/) • [UCLA Department of Design Media Arts](http://dma.ucla.edu/) • [NYU Tandon School of Engineering, Integrated Digital Media](http://idm.engineering.nyu.edu/) • [NYU Tisch School of the Arts, Interactive Telecommunications Program](https://tisch.nyu.edu/itp) • [University of Denver Emergent Digital Practices](https://www.du.edu/ahss/edp/) • [Princeton University StudioLab](https://cst.princeton.edu/studiolab) • [Google Creative Lab](https://experiments.withgoogle.com/) • [Processing Foundation](https://processingfoundation.org/) • [Eyeo Festival](http://eyeofestival.com/).
+The 2018 OSSTA Convening in Minneapolis was made possible by [The John S. and James L. Knight Foundation](https://knightfoundation.org/), and was realized with additional support from: [The National Endowment for the Arts](https://www.arts.gov/) • [The Frank-Ratchye STUDIO for Creative Inquiry at Carnegie Mellon University](https://studioforcreativeinquiry.org/) • [UCLA Department of Design Media Arts](http://dma.ucla.edu/) • [NYU Tandon School of Engineering, Integrated Digital Media](http://idm.engineering.nyu.edu/) • [NYU Tisch School of the Arts, Interactive Telecommunications Program](https://tisch.nyu.edu/itp) • [University of Denver Emergent Digital Practices](https://www.du.edu/ahss/edp/) • [Princeton University StudioLab](https://cst.princeton.edu/studiolab) • [Google Creative Lab](https://experiments.withgoogle.com/) • [Processing Foundation](https://processingfoundation.org/) • [Eyeo Festival](http://eyeofestival.com/).<br/><br />
 
 ![OSSTA Convening sponsor logos](images/sponsor-logos.png)
 
