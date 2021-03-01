@@ -6,11 +6,14 @@
 
 **Abstract:** This Report documents a convening on Open Source Software Toolkits for the Arts (OSSTA) held in June 2018. This event was a one-day conversation populated by founders, maintainers, and contributors of open-source arts-engineering toolkits. During this convening, participants discussed the challenges facing the development, maintenance, funding, sustainability, and community management of open-source arts toolkits, as well as their values and goals for the future. The goal of this Report is to help generate new opportunities for understanding, recognizing, and supporting work in this field. 
 
+**Contact:** Questions about this document may be directed to: [studio-info@andrew.cmu.edu](mailto:studio-info@andrew.cmu.edu).
+
 **Please cite this document as follows:** 
 > Lauren Lee McCarthy, Thomas Hughes, and Golan Levin. "Open Source Software Toolkits for the Arts (OSSTA): a Convening". Report published by The Frank-Ratchye STUDIO for Creative Inquiry, Carnegie Mellon University, February 2021. [https://github.com/CreativeInquiry/OSSTA-Report](https://github.com/CreativeInquiry/OSSTA-Report).
 
-**Contact:** Questions about this document may be directed to: [studio-info@andrew.cmu.edu](mailto:studio-info@andrew.cmu.edu).
+This document is released under a [Creative Commons Attribution-ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/) (CC BY-SA 4.0).
 
+![CC BY-SA 4.0](images/by-sa_small.png)
 
 
 # Front Matter
@@ -18,7 +21,7 @@
 This Report is available in two forms: 
 
 1. As a set of web pages in MarkDown format (available in this GitHub repository at [https://github.com/CreativeInquiry/OSSTA-Report](https://github.com/CreativeInquiry/OSSTA-Report)
-2. As a single downloadable PDF file (TBD).
+2. As a single [downloadable PDF file](pdf/ossta-report.pdf) (8.7 MB).
 
 ## Table of Contents
 
