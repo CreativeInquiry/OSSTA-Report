@@ -270,7 +270,8 @@ Pittsburgh, PA 15213<br />
 * Faith Kim
 * Santiago Martinez
 * Tatyana Mustakos
-* Casey Reas 
+* Casey Reas
+* Dorothy R. Santos
 * Peter Sheehan
 * Johanna St. John
 
