@@ -3,7 +3,7 @@
 
 [← Back to Contents](README.md)
 
-![OSSTA group conversation](images/ossta_table_4.jpg)
+![Image description: Six people are sitting around a square table covered in yellow note papers at the OSSTA Convening. A woman with curly brown hair and glasses is speaking and gesturing with her hands. The others are listening to her. One person is facing away from the camera.](images/ossta_table_4.jpg)
 
 ### How can we cultivate diverse and inclusive contributor communities?
 

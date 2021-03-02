@@ -2,7 +2,7 @@
 
 *Report on a convening on Open-Source Software Toolkits for the Arts (OSSTA), Minneapolis, June 2–3, 2018. Organized by Golan Levin ([Frank-Ratchye STUDIO for Creative Inquiry](https://studioforcreativeinquiry.org/), Carnegie Mellon University) and Lauren Lee McCarthy ([p5.js](https://p5js.org/) & [UCLA Design Media Arts](http://dma.ucla.edu/)), with enabling support from [The John S. and James L. Knight Foundation](https://knightfoundation.org/).*
 
-![OSSTA Futures discussion](images/ossta_futures.jpg)
+![Image description: Approximately 30 people sitting in a wide circle, some 25 feet across, having a group conversation. The OSSTA Futures discussion.](images/ossta_futures.jpg)
 
 **Abstract:** This Report documents a convening on Open Source Software Toolkits for the Arts (OSSTA) held in June 2018. This event was a one-day conversation populated by founders, maintainers, and contributors of open-source arts-engineering toolkits. During this convening, participants discussed the challenges facing the development, maintenance, funding, sustainability, and community management of open-source arts toolkits, as well as their values and goals for the future. The goal of this Report is to help generate new opportunities for understanding, recognizing, and supporting work in this field. 
 
@@ -21,7 +21,7 @@ This document is released under a [Creative Commons Attribution-ShareAlike 4.0 I
 This Report is available in two forms: 
 
 1. As a set of web pages in MarkDown format (available in this GitHub repository at [https://github.com/CreativeInquiry/OSSTA-Report](https://github.com/CreativeInquiry/OSSTA-Report)
-2. As a single [downloadable PDF file](pdf/ossta-report.pdf) (8.7 MB).
+2. As a single [**downloadable PDF file**](pdf/ossta-report.pdf) (9.3 MB).
 
 ## Table of Contents
 
@@ -78,7 +78,7 @@ This Report is available in two forms:
 
 ## i. Preface
 
-![OSSTA group conversation](images/ossta_table_7.jpg)
+![Image description: A group of seven people at the OSSTA Convening sit around a square table, having a conversation and making notes. Five of their faces are visible to the camera.](images/ossta_table_7.jpg)
 
 We are pleased to share this report documenting a convening on Open Source Software Toolkits for the Arts (OSSTA), organized by Golan Levin and Lauren Lee McCarthy in Minneapolis, Minnesota on June 2–3, 2018. This event was a one-day conversation and ‘unconference’, populated by founders, maintainers, and contributors of open-source arts-engineering tools such as [Processing](https://processing.org/), [p5.js](https://p5js.org/), [openFrameworks](https://openframeworks.cc/), [Cinder](https://libcinder.org/), [three.js](https://threejs.org/), and more. Grants officers from The Knight Foundation and the National Endowment for the Arts (NEA) also took part in the discussions, as well as a handful of volunteers and support staff. 
 
@@ -93,7 +93,7 @@ We offer our deepest gratitude to the participants of the convening, and the man
 
 ## ii. Overview
 
-![OSSTA conversation table](images/ossta_table_8.jpg)
+![Image description: Nine people are seated around a table having a conversation at the OSSTA Convening. Four of their faces are visible to the camera. A woman with glasses and a black hoodie is speaking, and the others are listening to her.](images/ossta_table_8.jpg)
 
 On June 2nd and 3rd, 2018, Golan Levin and Lauren Lee McCarthy, professors of media arts, with support from The John S. and James L. Knight Foundation, organized a convening on Open Source Software Toolkits for the Arts (OSSTA) in Minneapolis, Minnesota. This event was a one-day conversation and ‘unconference’, populated by founders, maintainers, and contributors of open-source arts-engineering tools such Processing, p5.js, openFrameworks, Cinder, three.js, and more. Grants officers from The Knight Foundation and the National Endowment for the Arts (NEA) also took part in the discussions, as well as a handful of volunteers and support staff. The convening took place on the weekend before the 2018 Eyeo Festival, an annual media arts conference in Minneapolis. 
 
@@ -157,7 +157,7 @@ As decisions and responsibility continue to be centralized in a small group whil
 
 ## iv. Participants
 
-![OSSTA group photo](images/ossta_group_photo.jpg)
+![Image description: 36 casually dressed people standing outdoors around noon on a sunny day, posing for a group photo. The OSSTA Convening group photo](images/ossta_group_photo.jpg)
 
 Participants were selected for this convening based on a variety of factors including: historical relationships to the tools; unique, under-represented, and/or valuable perspectives and background experience; industry perspectives; pedagogic perspectives; and the constraints of the budget for transcontinental flights. This group was convened to develop and express deep and broad conversations around OSSTA, but in no way was meant to be exclusive of the thousands of other contributors, creators, and toolkits that actively contribute to and maintain these vibrant communities. 
 

@@ -2,7 +2,7 @@
 
 [← Back to Contents](README.md)
 
-![OSSTA conversation table](images/ossta_table_1.jpg)
+![Image description: A group of seven people is sitting around a table at the OSSTA Convening, having a conversation. Four faces are visible to the camera.](images/ossta_table_1.jpg)
 
 ### How do we describe what we do, and its value?
 

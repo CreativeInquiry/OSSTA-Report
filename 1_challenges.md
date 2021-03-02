@@ -2,7 +2,7 @@
 
 [← Back to Contents](README.md)
 
-![OSSTA conversation table](images/ossta_table_3.jpg)
+![Image description: Six people are sitting at one end of a large table at the OSSTA Convening, with other persons out of view. A woman with glasses, bleached hair, and a black hoodie is speaking and gesturing, while the others are listening to her.](images/ossta_table_3.jpg)
 
 ###  What are the biggest challenges in OSSTA?
 
@@ -31,7 +31,7 @@ Funding is one of the largest challenges many OSSTAs encounter. Many of these to
 
 ## Communication
 
-![OSSTA conversation table](images/ossta_table_6.jpg)
+![Image description: Six people are sitting around a square table at the OSSTA Convening, having a conversation. A man with a ponytail and scruffy beard is speaking and gesturing, while the others are listening.](images/ossta_table_6.jpg)
 
 Communication is an area with many opportunities for improvement. Onboarding new members and making them feel welcome and respected is essential for the community. It is important to carefully consider the communication tools being used. There is also a need for an intentional and thoughtful approach to communication within these channels. One of the participants said, “How do you signal to people that they have a seat at the table, that the table is big and that there are seats available, and just how do we get that message out there?” Communication is discussed further in [*Development and Maintenance: Communication*](2_development_and_maintenance.md#communication).
 

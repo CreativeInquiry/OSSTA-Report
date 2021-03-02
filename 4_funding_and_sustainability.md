@@ -2,7 +2,7 @@
 
 [← Back to Contents](README.md)
 
-![OSSTA group conversation](images/ossta_table_9.jpg)
+![Image description: A man wearing a white hoodie and glasses is standing and speaking next to a video projection screen in a large room at the OSSTA Convening. The screen shows a handmade drawing of an ecosystem featuring worms, fungi, birds, etc. An audience of at least six other persons is seated, listening to him.](images/ossta_table_9.jpg)
 
 ### How can we sustain this work?
 

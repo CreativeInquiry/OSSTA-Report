@@ -3,7 +3,7 @@
 
 [← Back to Contents](README.md)
 
-![OSSTA conversation table](images/ossta_table_2.jpg)
+![Image description: Seven people are sitting around a square table at the OSSTA Convening, having a conversation. The faces of all but one or two are visible to the camera.](images/ossta_table_2.jpg)
 
 ###  How do we handle growth and management?
 

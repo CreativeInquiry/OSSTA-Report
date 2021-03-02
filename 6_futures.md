@@ -2,7 +2,7 @@
 
 [← Back to Contents](README.md)
 
-![OSSTA Futures discussion](images/ossta_table_5.jpg)
+![Image description: Eight people are seated in a row in a large room with large windows. A woman with curly hair, a white shirt and glasses is speaking while looking at some notes in her hand. The others are listening to her intently.](images/ossta_table_5.jpg)
 
 ### What are the futures we want to see?
 
