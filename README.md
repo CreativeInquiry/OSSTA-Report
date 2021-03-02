@@ -26,11 +26,12 @@ This Report is available in two forms:
 ## Table of Contents
 
 * i. [**Preface**](#i-preface)
-* ii. [**Summary**](#ii-summary)
-* iii. [**Participants**](#iii-participants)
-* iv. [**Field Definition**](#iv-field-definition)
-* v. [**Credits**](#v-credits)
-* vi. [**Sponsors**](#vi-sponsors)
+* ii. [**Overview**](#ii-overview)
+* iii. [**Takeaways**](#iii-takeaways)
+* iv. [**Participants**](#iv-participants)
+* v. [**Field Definition**](#v-field-definition)
+* vi. [**Credits**](#vi-credits)
+* vii. [**Sponsors**](#vii-sponsors)
 
 1. [**Challenges**](1_challenges.md)
    * [Maintenance](1_challenges.md#maintenance)
@@ -90,7 +91,7 @@ We offer our deepest gratitude to the participants of the convening, and the man
 — *Golan Levin and Lauren Lee McCarthy (Co-Organizers)*
 
 
-## ii. Summary
+## ii. Overview
 
 ![OSSTA conversation table](images/ossta_table_8.jpg)
 
@@ -102,7 +103,7 @@ Because Open Source Software Toolkits for the Arts are primarily developed onlin
 
 The organizers’ goal for this report is to generate new opportunities for understanding, recognizing, and supporting work in this field. 
 
-The Convening was organized around a set of six central questions, which are discussed in the six web pages linked here:
+The Convening was organized around a set of six central questions or themes, which are discussed in the six web pages linked here:
 
 1. [**Challenges**](1_challenges.md) — What are the biggest challenges in OSSTA?
 2. [**Developer Operations**](2_development_and_maintenance.md) — How do we handle growth and management?
@@ -111,10 +112,50 @@ The Convening was organized around a set of six central questions, which are dis
 5. [**Values**](5_values.md) — How do we describe what we do, and its value?
 6. [**Futures**](6_futures.md) — What are the futures we want to see?
 
-Within the pages linked above, we have identified the key themes that emerged from each of the discussions as well as the challenges and opportunities presented by Convening participants.
+
+## iii. Takeaways
+
+There were seven key takeaways from the OSSTA convening: 
+
+#### 1. Maintenance is essential, wide-ranging, and often undervalued. 
+
+Maintenance includes tasks such as updating a codebase to deal with updates to browsers, web specifications, operating systems, and hardware; publishing new releases; editing and improving documentation and examples; updating the project's website; guiding contributors; managing discussion on GitHub; and running social media accounts. Maintenance requires consistent effort and work which is often both undervalued by contributors (compared to adding new features) and not visible to users. For the long-term success of OSSTAs, maintenance and management structures, as well as the funding to support them, are needed. 
+
+#### 2. Funding is necessary to create a sustainable and inclusive toolkit, and it is the biggest challenge for most OSSTAs.
+
+OSSTAs often have a difficult time making their case to funding organizations because they fall into the in-between space of technology and art, and the value of creating a tool to help others make art is not recognized. Few funders possess the "dual expertise" necessary to understand and appreciate both creative art practices and open-source software development. One of the participants, who contributes to a toolkit widely used among generative artists, said: “We make things that help people make things that make things.” This concept is abstract and encompasses a broad spectrum of values both monetary and non-monetary. 
+
+Most OSSTA projects are largely supported by volunteers, and such energy can dissipate over time. Additionally, relying solely on volunteer labor excludes those without the financial and/or class privilege to donate their time and knowledge. In addition to being open-source, most OSSTAs are also (purposefully) free, which further limits options for income. 
+
+Funding sources range from community donations and grants, to educational institution support, corporate sponsorships, and licensing fees. However, none of the OSSTAs felt that they had achieved a sustainable business model. OSSTA leadership needs help identifying and cultivating funding sources, as well as developing infrastructure to manage resources.
+
+#### 3. A focus on access, diversity, and inclusion is needed.
+
+The field of OSSTA development is predominantly white and male, though this has been shifting in recent years, led by efforts from some projects that have explicitly centered values of diversity, inclusion, and access as core values for their community and tool. Community members recognize the need for contributors of more diverse backgrounds, identities, and skill sets. Given the centralized nature of the tools, creating pathways for newcomers to feel welcome and start to participate in the community is an ongoing challenge. Other common barriers include lack of resources (time to participate, access to equipment or high-speed internet), lack of accessibility (little or no consideration of disabled users, reliance on single modality documentation or outputs), limited documentation and/or English-only materials, and opaque leadership and community structures. Strategies for addressing these issues include establishing a clear code of conduct and set of community values, inviting new people into the project and creating leadership opportunities, being intentional with communication, using development and communication tools that require less technical expertise, and improving documentation.
+
+#### 4. Documentation is critical but often lacking.
+
+Documentation is critical for OSSTAs to support users and continue to grow. It is also recognized as one way of making projects more inclusive and lowering barriers to entry for new users. Additionally, improving documentation is often an entry point for new tool contributors. Documentation takes significant time to develop and maintain, and is often lacking, especially for intermediate users. Nearly all documentation is in English, and there’s a large need for translation of documentation materials.
+
+#### 5. Community is just as important as code for many OSSTAs.
+
+OSSTAs are known as much for the community that uses a given toolkit, as the toolkit itself. Many participants mentioned learning to use the tool because of the personal introduction they received into the community. There are many different types of people that interact with OSSTAs, including contributors, students, educators, and artists. Participants emphasized the need to give attention to areas other than code. Creating a tool involves the management of contributors, volunteers, and other members of the community. Not every creator of a tool is interested in the creation of a community and the management of it, but this community seems to develop naturally as the user base grows. There is a need for the creation of guidelines for interaction and a code of conduct that guides best practices for community members to interact with each other. As people approach these tools from different backgrounds, it is also necessary to create paths that welcome newcomers into the space so they feel welcomed and invited.
+
+#### 6. Intentional communication needs to consider content, language, and tools used.
+
+Communication is an area with many opportunities for improvement. Internal and external communications could be streamlined. Onboarding new members and making them feel welcome and respected is essential for the community. There is a need for an intentional and thoughtful approach to communication. This includes recognizing different communication styles, experience levels, native languages, and disabilities. The participants acknowledged that often they find themselves working against exclusionary communication patterns that are prevalent in open-source.
+
+It is important to carefully consider the communication tools being used. One of the participants said, “How do you signal to people that they have a seat at the table, that the table is big, and that there are seats available? How do we get that message out there?” One of the most common communication channels used is GitHub, which offers distributed version control and source code management as well as collaborative communication tools. However, a significant amount of technical experience is required to use GitHub and this is a barrier for new people. Projects that centralize all communication on GitHub, even those related to non-coding aspects of the project, may severely limit participation and prevent growth. It is important to deploy approachable ways in which newcomers and people interested in contributing can be introduced to GitHub. Other channels used by the OSSTA community are email, social media, Slack, Discord,  Gitter, Discourse, Stack Overflow, online forums, and IRC channels. 
+
+#### 7. Clarifying leadership structures could offer a pathway toward long-term sustainability.
+
+OSSTAs have various leadership models. Many of the projects effectively use a “do-ocracy” model (where those that do the most work make decisions) or a “founder-leader” or “benevolent dictator” model (where the founder(s) of the project oversee decision making and community leadership). These leadership models often rely on implicit knowledge, and it is sometimes unclear how to make a decision or arrive at consensus when contributors are very distributed. The idea that anyone can theoretically participate in decision making does not always mean that it is accessible for everyone or that it is equal. Decision-making processes may be centralized in the leadership and with primary contributors, and it can be difficult to find a way in for those who are new to the project. Further, when volunteer-based projects function on a “do-ocracy” model, it privileges those who can afford to donate their time.
+
+As decisions and responsibility continue to be centralized in a small group while the project scales, there is a point where the leaders and main contributors cannot keep up with the pace of requests. Leadership transition offers a way to lift the burden off project founders and also open more space for new and diverse voices. However, OSSTAs need to budget and plan the time, space, and resources necessary to develop opportunities for mentorship and transition. They must also address questions about how the new leader is chosen, and what their responsibilities are. One recent example of a leadership transition occurred with the p5.js project, which moved to an annually rotating leadership model in 2020.
 
 
-## iii. Participants
+
+## iv. Participants
 
 ![OSSTA group photo](images/ossta_group_photo.jpg)
 
@@ -156,7 +197,7 @@ Biographies for convening participants can be found in [Appendix A](7a_appendix_
 * [Chris Coleman](http://digitalcoleman.com/) (University of Denver EDP)
 * [Dan Shiffman](https://shiffman.net/) (Processing Foundation; NYU ITP)
 * [David Lublin](http://www.davidlubl.in/) (HAP Codec; Vidvox VDMX)
-* [Dorothy Santos](https://dorothysantos.com/) (Processing Foundation; REFRESH)
+* [Dorothy R. Santos](https://dorothysantos.com/) (Processing Foundation; REFRESH)
 * [Irene Alvarado](https://www.irenealvarado.com/) (Tensorflow.js; Google Creative Lab)
 * [Kate Compton](http://www.galaxykate.com/) (Tracery)
 * [Kate Hollenbach](http://www.katehollenbach.com/) (p5.js; independent artist)
@@ -174,7 +215,7 @@ Biographies for convening participants can be found in [Appendix A](7a_appendix_
 * [Zach Lieberman](http://zach.li/) (openFrameworks; School for Poetic Computation)
 
 
-## iv. Field Definition
+## v. Field Definition
 
 More than ever, today's media artists create their work using a suite of free programming toolkits made for artists, by artists. These open-source software tools for the arts, or *OSSTAs* — such as Processing, p5.js, and openFrameworks—are created by small, self-organized collectives of artists, designers, and educators in order to fulfill needs that are unmet (and probably unmeetable) by the marketplace. Generally, these toolkits take the form of software libraries: bundles of code, associated documentation, and work examples that are free and accessible. Because they are made by artists for artists, they reflect and respond to the specific needs and vision of artists and designers. This ground-up approach allows for a community to unlock creative potential by defining its own tools, rather than be subject to the whims of major corporations.
 
@@ -187,7 +228,7 @@ Despite their widespread use, however, the development of these important toolki
 The first set of beneficiaries for this gathering are the 30 media artists invited to represent their toolkits. These individuals are true hybrids: artists who do their own, highly competent software engineering. Presently, they develop and improve these toolkits, both for themselves and for others, with little or no financial support. Our project benefits these individuals by providing direct support for this activity. By gathering them together for face-to-face collaboration, it also serves to strengthen their communities. The second set of beneficiaries are the (literally) thousands of artists, designers, musicians, students, and researchers who depend on these specific tools to create interactive installations, performances, visualizations, and online experiences. For these communities, the expected benefit is a set of tools to create their work that is more robust, more fully-featured, better-documented, and created by and representative of a wider diversity of perspectives.
 
 
-## v. Credits
+## vi. Credits
 
 The 2018 OSSTA Convening was a project of The Frank-Ratchye STUDIO for Creative Inquiry at Carnegie Mellon University. 
 
@@ -209,7 +250,7 @@ Pittsburgh, PA 15213<br />
 
 #### Content Facilitators
 * Taeyoon Choi
-* Dorothy Santos
+* Dorothy R. Santos
 * Kate Hollenbach
 * Carlos Garcia
 * Sharon de la Cruz
@@ -223,13 +264,15 @@ Pittsburgh, PA 15213<br />
 * Shanae Phillips — STUDIO Program Assistant
 
 #### Document Contributors, Editorial Assistance, and Documentation
-* Santiago Martinez
-* Johanna St. John
-* Claire Hentschker
-* Tatyana Mustakos
 * Chloé Desaulles
+* Johanna Hedva
+* Claire Hentschker
 * Faith Kim
+* Santiago Martinez
+* Tatyana Mustakos
+* Casey Reas 
 * Peter Sheehan
+* Johanna St. John
 
 #### Event Management and Production Coordination
 * Tom Hughes
@@ -239,7 +282,7 @@ Pittsburgh, PA 15213<br />
 * January Johnson 
 
 
-## vi. Sponsors
+## vii. Sponsors
 
 The 2018 OSSTA Convening in Minneapolis was made possible by [The John S. and James L. Knight Foundation](https://knightfoundation.org/), and was realized with additional support from: [The National Endowment for the Arts](https://www.arts.gov/) • [The Frank-Ratchye STUDIO for Creative Inquiry at Carnegie Mellon University](https://studioforcreativeinquiry.org/) • [UCLA Department of Design Media Arts](http://dma.ucla.edu/) • [NYU Tandon School of Engineering, Integrated Digital Media](http://idm.engineering.nyu.edu/) • [NYU Tisch School of the Arts, Interactive Telecommunications Program](https://tisch.nyu.edu/itp) • [University of Denver Emergent Digital Practices](https://www.du.edu/ahss/edp/) • [Princeton University StudioLab](https://cst.princeton.edu/studiolab) • [Google Creative Lab](https://experiments.withgoogle.com/) • [Processing Foundation](https://processingfoundation.org/) • [Eyeo Festival](http://eyeofestival.com/).<br/><br />
 
