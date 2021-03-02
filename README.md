@@ -4,7 +4,9 @@
 
 ![Image description: Approximately 30 people sitting in a wide circle, some 25 feet across, having a group conversation. The OSSTA Futures discussion.](images/ossta_futures.jpg)
 
-**Abstract:** This Report documents a convening on Open Source Software Toolkits for the Arts (OSSTA) held in June 2018. This event was a one-day conversation populated by founders, maintainers, and contributors of open-source arts-engineering toolkits. During this convening, participants discussed the challenges facing the development, maintenance, funding, sustainability, and community management of open-source arts toolkits, as well as their values and goals for the future. The goal of this Report is to help generate new opportunities for understanding, recognizing, and supporting work in this field. 
+**Abstract:** This Report [[**PDF**](pdf/ossta-report.pdf)] documents a convening on Open Source Software Toolkits for the Arts (OSSTA) held in June 2018. This event was a one-day conversation populated by founders, maintainers, and contributors of open-source arts-engineering toolkits. During this convening, participants discussed the challenges facing the development, maintenance, funding, sustainability, and community management of open-source arts toolkits, as well as their values and goals for the future. The goal of this Report is to help generate new opportunities for understanding, recognizing, and supporting work in this field. 
+
+**Keywords:** open source, tools, new media arts, community, education, software development
 
 **Contact:** Questions about this document may be directed to: [studio-info@andrew.cmu.edu](mailto:studio-info@andrew.cmu.edu).
 
