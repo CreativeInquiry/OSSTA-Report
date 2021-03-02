@@ -1,6 +1,6 @@
 # Open Source Software Toolkits for the Arts (OSSTA): a Convening 
 
-*Report on a convening on Open-Source Software Toolkits for the Arts (OSSTA), Minneapolis, June 2–3, 2018. Organized by Golan Levin ([Frank-Ratchye STUDIO for Creative Inquiry](https://studioforcreativeinquiry.org/), Carnegie Mellon University) and Lauren Lee McCarthy ([p5.js](https://p5js.org/) & [UCLA Design Media Arts](http://dma.ucla.edu/)), with enabling support from [The John S. and James L. Knight Foundation](https://knightfoundation.org/).*
+*Report [[**PDF**](pdf/ossta-report.pdf)] on a convening on Open-Source Software Toolkits for the Arts (OSSTA), Minneapolis, June 2–3, 2018. Organized by Golan Levin ([Frank-Ratchye STUDIO for Creative Inquiry](https://studioforcreativeinquiry.org/), Carnegie Mellon University) and Lauren Lee McCarthy ([p5.js](https://p5js.org/) & [UCLA Design Media Arts](http://dma.ucla.edu/)), with enabling support from [The John S. and James L. Knight Foundation](https://knightfoundation.org/).*
 
 ![Image description: Approximately 30 people sitting in a wide circle, some 25 feet across, having a group conversation. The OSSTA Futures discussion.](images/ossta_futures.jpg)
 
@@ -18,10 +18,10 @@ This document is released under a [Creative Commons Attribution-ShareAlike 4.0 I
 
 # Front Matter
 
-This Report is available in two forms: 
+This Report is available in two formats: 
 
-1. As a set of web pages in MarkDown format (available in this GitHub repository at [https://github.com/CreativeInquiry/OSSTA-Report](https://github.com/CreativeInquiry/OSSTA-Report)
-2. As a single [**downloadable PDF file**](pdf/ossta-report.pdf) (9.3 MB).
+1. As a single [**downloadable PDF file**](pdf/ossta-report.pdf) (9.3 MB).
+2. As a set of web pages in MarkDown format (available in this GitHub repository at [https://github.com/CreativeInquiry/OSSTA-Report](https://github.com/CreativeInquiry/OSSTA-Report))
 
 ## Table of Contents
 
